@@ -1,0 +1,1078 @@
+Return-path: <v-cpjknfp_fgiibijfd_cplbpggl_cplbpggl_a@bounce.e.tate.org.uk>
+Envelope-to: rebecca@rcottrell.com
+Delivery-date: Wed, 04 Nov 2015 09:43:06 +0000
+Received: from mail2324.e.tate.org.uk ([74.112.67.17]:51493)
+	by aster.dataflame.com with esmtp (Exim 4.85)
+	(envelope-from <v-cpjknfp_fgiibijfd_cplbpggl_cplbpggl_a@bounce.e.tate.org.uk>)
+	id 1Ztuau-0001CW-Mh
+	for rebecca@rcottrell.com; Wed, 04 Nov 2015 09:43:06 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=spop; d=e.tate.org.uk;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=tate@e.tate.org.uk;
+ bh=w/s2Q5pKWn1+BLMcI+/gd9xxQ5s=;
+ b=ji14ww3OiTtioibz9LXphIcbzn29kDh2anutknMCoxA0AATmBM7DGqjD1/tSmdrMwkeKDIqa9XKS
+   9oZOqPS3JA==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=spop; d=e.tate.org.uk;
+ b=M+2yEhuZV5hA9XvD9DexhpOaNbICBqLdqsxYcAkHL1pyOWs/Lzgvwt7Jfp7rH6mtr/2hFbHaRrWH
+   MgKfRJWjqQ==;
+Received: by mail2324.e.tate.org.uk id h779im19if4d for <rebecca@rcottrell.com>; Wed, 4 Nov 2015 09:43:06 +0000 (envelope-from <v-cpjknfp_fgiibijfd_cplbpggl_cplbpggl_a@bounce.e.tate.org.uk>)
+Date: Wed, 4 Nov 2015 09:43:06 +0000 (GMT)
+From: Tate <tate@e.tate.org.uk>
+Reply-To: tate@e.tate.org.uk
+To: rebecca@rcottrell.com
+Message-ID: <1717894861.212302071446630186108.JavaMail.app@rbg43.atlis1>
+Subject: Tate Talks this November
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_81806_1262805084.1446630179492"
+x-mid: 49917279
+x-job: 49917279
+Feedback-ID: pod4_34147_49917279_800192107:pod4_34147:ibmsilverpop
+x-rpcampaign: sp49917279
+x-orgId: 34147
+List-Unsubscribe: <mailto:v-cpjknfp_fgiibijfd_cplbpggl_cplbpggl_a@bounce.e.tate.org.uk?subject=Unsubscribe>
+X-Spam-Status: No, score=1.7
+X-Spam-Score: 17
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "aster.dataflame.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  This message contains graphics. If you do not see the graphics,
+    click here to view. Exhibitions Events Membership Shop Tate Talks this November
+    This November, we launch our event series Nordic Art and its Discontents
+   with a talk that looks at the ‘Nordic Miracle.’ We host a panel of artists,
+    scientists and architects to discuss the different forms of light in the
+   event series Light and Dark Matters, and we critically explore pop art throughout
+    the 1960s and 1970s in the Art of Pop: Global Perspectives. Also to be explored
+    is the relationship between humans and nature in Bio Art: Altered Realities.
+    [...] 
+ 
+ Content analysis details:   (1.7 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: mkt941.com]
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at http://www.dnswl.org/, no
+                             trust
+                             [74.112.67.17 listed in list.dnswl.org]
+ -0.0 RCVD_IN_MSPIKE_H3      RBL: Good reputation (+3)
+                             [74.112.67.17 listed in wl.mailspike.net]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 T_RP_MATCHES_RCVD      Envelope sender domain matches handover relay
+                             domain
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.7 MPART_ALT_DIFF         BODY: HTML and text parts are different
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.0 RCVD_IN_MSPIKE_WL      Mailspike good senders
+  0.0 MIME_HTML_ONLY_MULTI   Multipart message only has text/html MIME parts
+X-Spam-Flag: NO
+
+------=_Part_81806_1262805084.1446630179492
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html><head><meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Cont=
+ent-Type"><title></title><style type=3D"text/css"> /*<![CDATA[*/ #outlook a=
+{padding:0}.ExternalClass,.ReadMsgBody{width:100%}.ExternalClass,.ExternalC=
+lass div,.ExternalClass font,.ExternalClass p,.ExternalClass span,.External=
+Class td{line-height:100%}a,blockquote,body,li,p,table,td{-webkit-text-size=
+-adjust:100%;-ms-text-size-adjust:100%}table,td{mso-table-lspace:0;mso-tabl=
+e-rspace:0}img{-ms-interpolation-mode:bicubic}img{border:0;height:auto;line=
+-height:100%;outline:0;text-decoration:none}table{border-collapse:collapse!=
+important}#bodyCell,body,#bodyTable{height:100%!important;margin:0;padding:=
+0;width:100%!important}#templateContainer{width:600px; max-width:600px;}#bo=
+dyTable,body{background-color:#fff}h1{color:#202020!important;display:block=
+;font-family:Arial,Helvetica,sans-serif;font-size:26px;font-style:normal;fo=
+nt-weight:700;line-height:100%;letter-spacing:normal;margin:0 0 10px;text-a=
+lign:left}h2{color:#404040!important;display:block;font-family:Arial,Helvet=
+ica,sans-serif;font-size:20px;font-style:normal;font-weight:700;line-height=
+:100%;letter-spacing:normal;margin:0 0 10px;text-align:left}h3{color:#60606=
+0!important;display:block;font-family:Arial,Helvetica,sans-serif;font-size:=
+18px;font-weight:400;line-height:100%;letter-spacing:normal;margin:0 0 4px;=
+text-align:left}h4{color:gray!important;display:block;font-family:Arial,Hel=
+vetica,sans-serif;font-size:14px;font-style:italic;font-weight:400;line-hei=
+ght:100%;letter-spacing:normal;margin:0 0 10px;text-align:left}#templatePre=
+header{background-color:#F4F4F4;border-bottom:1px solid #CCC}.preheaderCont=
+ent{color:gray;font-family:Arial,Helvetica,sans-serif;;font-size:10px;line-=
+height:125%;text-align:left}.preheaderContent a .yshortcuts,.preheaderConte=
+nt a:link,.preheaderContent a:visited{color:#606060;font-weight:400;text-de=
+coration:underline}#templateHeader{border-bottom:1px solid #d1d1d1; max-wid=
+th:600px}#templateMembersHeader{border-bottom:1px solid #d1d1d1;background:=
+url(http://static.tate.org.uk/1/email-template-furniture/members-background=
+-m_creed.png) no-repeat;min-height:150px}#templateMembersHeader #templateBr=
+anding{min-height:150px; width:100%;}.headerContent{color:#505050;font-fami=
+ly:Arial,Helvetica,sans-serif;font-size:14px;line-height:150%;padding:0;tex=
+t-align:left;vertical-align:middle}.headerContent a .yshortcuts,.headerCont=
+ent a:link,.headerContent a:visited{color:#333;font-weight:400;text-decorat=
+ion:underline}#headerImage{height:auto;width:auto;max-width:100%; margin:0 =
+auto; text-align:center;}.headerLogo{text-align:center; width:100%;}.member=
+sHeaderLogo{text-align:right}.membersHeaderText{padding-top:20px}.memberHea=
+dRenewMembership{color:red}.navigation{text-align:center;padding:19px 0;bor=
+der-top:1px solid #d1d1d1}.navigation a:link{color:#333;text-decoration:non=
+e;font-size:14px;padding:10px 15px; font-family:Arial,Helvetica,sans-serif;=
+ }.navigation a:hover{text-decoration:underline}.navigation a:visited{color=
+:#333;}#templateStrapline h1 a:link,a:visited{color:#333}#templateStrapline=
+ h1 a:hover{color:#000;text-decoration:underline}#templateBody{border-top:1=
+px solid #FFF;border-bottom:1px solid #d1d1d1}#templateBody img{display:inl=
+ine;height:auto;max-width:600px}.bodySection{border-bottom:1px solid #d1d1d=
+1}.strapline h1{padding:14px 0;text-align:center}.strapline h1 a:link{color=
+:#333;font-weight:400;text-decoration:none;font-size:20px}.leadImage{width:=
+100%;height:auto}.introTextBlock{margin-bottom:30px;text-align:left}.textBl=
+ock,.textBlockInpage{padding-top:10px;padding-bottom:10px}#templateCallToAc=
+tion,#templateCallToAction p,.textBlock, .textBlock p, .textBlock div,.text=
+BlockInpage, .textBlockInpage p, .textBlockInpage div{color:#505050;font-fa=
+mily:Arial,Helvetica,sans-serif;text-align:left;font-size:14px;line-height:=
+150%}.textBlock p, .textBlock div,.textBlockInpage p, .textBlockInpage div{=
+margin:10px 0}.panelText a .yshortcuts,.panelText a:link,.panelText a:visit=
+ed,.CallToActionText a:link,.CallToActionText a:visited,.textBlock a .yshor=
+tcuts,.textBlock a:link,.textBlock a:visited,.textBlockInpage a .yshortcuts=
+,.textBlockInpage a:link,.textBlockInpage a:visited, .templateSectionTitle =
+h2 a:visited, .templateSectionTitle h2 a:link{color:#0090b5;font-weight:700=
+;text-decoration:none}.templateSectionTitle h2 a:visited, .templateSectionT=
+itle h2 a:link{font-weight:normal;}.panelText a:hover,.textBlock a:hover,.t=
+extBlockInpage a:hover,.CallToActionText a:hover, .templateSectionTitle h2 =
+a:hover{color:#00657f;text-decoration:underline}.panelText a:focus,.textBlo=
+ck a:focus,.textBlockInpage a:focus,.CallToActionText a:focus{outline:#0090=
+b5 solid 4px}#templateCallToAction{border-top:1px solid #d1d1d1}.bigCtaWrap=
+per{text-align:right}.CallToActionText{padding:30px 0;width:60%;font-size:1=
+4px}.fullWidthImageInPage{padding-top:10px;padding-bottom:10px}.templateSec=
+tionTitle{background:#f7f7f7;border-bottom:1px solid #d1d1d1}.templateSecti=
+onTitle h2{padding:20px;font-weight:400;margin:0;text-align:center}.panelDa=
+te,.panelPrice,.panelSubtitle,.panelText,.panelTitle{padding:0}.panelInform=
+ation{width:100%;padding-bottom:30px}.panelTitle h3{font-size:22px}.panelDa=
+te,.panelPrice, .panelPrice p,.panelSubtitle,.panelText, .panelText p{font-=
+size:14px;line-height:150%;color:#333; font-family:Arial,Helvetica,sans-ser=
+if;}.panelDate{font-weight:700}.panelText{padding-top:10px;padding-bottom:3=
+0px;font-size:14px;line-height:150%}.panelPrice{padding-bottom:20px;padding=
+-top:10px;text-align:center;font-size:12px; font-family: Arial,Helvetica,sa=
+ns-serif;}.bigCta,.smallCta, .smallRowCta,.smallShopCta, .panelCalltoaction=
+Shop a, .panelCalltoaction a, .bigCtaWrapper a {background:#00aed3;font-fam=
+ily: Arial,Helvetica,sans-serif; padding:10px 20px;color:#fff!important;tex=
+t-decoration:none!important;vertical-align:center}.bigCta:visited,.smallCta=
+:visited, .smallRowCta:visited,.smallShopCta:visited, .panelCalltoactionSho=
+p a:visited, .panelCalltoaction a:visited, .bigCtaWrapper a:visited {color:=
+#fff; text-decoration:none;} .bigCta:hover,.smallCta:hover, .smallRowCta:ho=
+ver,.smallShopCta:hover{background:#0090b5; color:#fff;}.bigCta{padding:17p=
+x;font-size:16px;line-height:50px;height:50px}.smallCta, .smallRowCta{font-=
+size:14px;line-height:30px;height:30px}.smallShopCta{font-size:12px;text-al=
+ign:center;padding:5px 10px;line-height:22px;height:22px}.templateThreeColu=
+mnContainer h3{font-size:14px;text-align:center;font-weight:700;color:#666}=
+.bigCtaWrapper,.panelCalltoaction{vertical-align:center}.panelCalltoactionS=
+hop{text-align:center}.templateThreeColumnContainer{width:160px;padding-top=
+:30px;padding-bottom:20px}.templateThreeColumnContainer .centerColumnConten=
+t,.templateThreeColumnContainer .leftColumnContent,.templateThreeColumnCont=
+ainer .rightColumnContent{text-align:center;padding-bottom:30px}.templateTh=
+reeColumnContainer .leftColumnContent,.templateThreeColumnContainer .rightC=
+olumnContent{padding-left:0;padding-right:0}.templateThreeColumnContainer .=
+centerColumnContent{padding-left:10px;padding-right:10px}.templateTwoColumn=
+Container{padding-top:30px;padding-bottom:20px; width:300px;}.templateTwoCo=
+lumnContainer .leftColumnContent{padding-right:20px;padding-left:0}.templat=
+eTwoColumnContainer .rightColumnContent{padding-left:20px;padding-right:0}#=
+templateRows,.templateThreeColumns,.templateTwoColumns{border-bottom:1px so=
+lid #d1d1d1}.centerColumnContent,.leftColumnContent{color:#505050;font-fami=
+ly:Arial,Helvetica,sans-serif;font-size:14px;line-height:150%;padding-top:0=
+;padding-bottom:20px;text-align:left}.rightColumnContent{color:#505050;font=
+-family:Arial,Helvetica,sans-serif;;font-size:14px;line-height:150%;padding=
+-top:0;padding-bottom:20px;text-align:left}.templateTwoColumnContainer .lef=
+tColumnContent img,.templateTwoColumnContainer .rightColumnContent img{disp=
+lay:inline;height:auto;max-width:286px}.templateThreeColumnContainer .cente=
+rColumnContent img,.templateThreeColumnContainer .leftColumnContent img,.te=
+mplateThreeColumnContainer .rightColumnContent img{display:inline;height:au=
+to;max-width:193px}.templateThreeColumnContainer .centerColumnContent,.temp=
+lateThreeColumnContainer .leftColumnContent,.templateThreeColumnContainer .=
+rightColumnContent{width:193px}.templateRowLeft,.templateRowRight{width:290=
+px;color:#505050;font-family:Arial,Helvetica,sans-serif;font-size:14px;line=
+-height:150%;padding:30px 0 20px;text-align:left}.templateRowLeft{padding-r=
+ight:10px}.templateRowRight{padding-left:10px}#templateFooter{background-co=
+lor:#2a2a2a}.subFooterContent{background:#ABABAB;padding:10px 0}.footerCont=
+ent{font-family:Arial,Helvetica,sans-serif;;font-size:12px;line-height:150%=
+;padding:20px;text-align:center;color:#ddd}.footerContent a .yshortcuts,.fo=
+oterContent a span,.footerContent a:link,.footerContent a:visited{color:#ee=
+e;font-weight:400;text-decoration:underline}#fullWidthImageOuter,#templateC=
+allToAction,#templateRows,#templateStrapline,.templateThreeColumns,.templat=
+eTwoColumns,.introTextBlock,.mainImage,.templateRowsInner,.templateSectionT=
+itle,.templateTwoColumnsPlaceholder, .TextBlockInpageOuter{width:600px} #te=
+mplateHeader,#templateFooter,#templateSubFooter, .fullWidthImage {width:600=
+px;}.footerImage{width:540px;}.footerImage,.fullWidthImage{height:auto;}.fo=
+oterContent a:link, .footerContent a:visited, .footerContent a:active, .foo=
+terContent a:active {color:#eee;} .footerContent {background:#2a2a2a; color=
+:#ddd;} .footerContent p {color:#eee;} .templateTwoColumnsPlaceholder .righ=
+tColumnContent, .templateTwoColumnsPlaceholder .leftColumnContent {padding-=
+bottom:0} .shop-red-text{color:red} .templateTwoColumnContainer .leftColumn=
+Content, .templateTwoColumnContainer  .rightColumnContent {max-width:280px;=
+ width:280px} .panelTitleLink:link, .panelTitleLink:visited, .panelTitleLin=
+k:active, .panelTitleLink:hover {color:#2a2a2a; border-bottom:1px solid #00=
+aed3; text-decoration:none;} @media only screen and (max-width:480px) { a,b=
+lockquote,body,li,p,table,td{-webkit-text-size-adjust:none!important}body{w=
+idth:100%!important;min-width:100%!important}#bodyCell{padding:10px!importa=
+nt}#templateContainer{width:100%!important}h1{font-size:24px!important;line=
+-height:100%!important}h2{font-size:20px!important;line-height:100%!importa=
+nt}h3{line-height:150%!important}.panelTitle h3{font-size:18px}h4{font-size=
+:16px!important;line-height:100%!important}#templatePreheader{display:none!=
+important}.navigation a:link{font-size:12px!important;padding:5px 10px!impo=
+rtant}#headerImage{height:auto!important;max-width:320px!important}.headerC=
+ontent{font-size:20px!important;line-height:125%!important}.footerImage,.fu=
+llWidthImage,.fullWidthImageInPage{height:auto!important;max-width:480px!im=
+portant;width:100%!important}.bodyContent{font-size:18px!important;line-hei=
+ght:125%!important}.CallToActionText{width:40%!important;font-size:14px!imp=
+ortant}.templateColumnContainer{display:block!important;width:100%!importan=
+t}.templateTwoColumnContainer .columnImage{height:auto!important;width:163p=
+x!important}.templateThreeColumnContainer .columnImage{height:auto!importan=
+t;width:114px!important}.centerColumnContent,.leftColumnContent,.rightColum=
+nContent{font-size:14px!important;line-height:140%!important}.templateThree=
+ColumnContainer .centerColumnContent,.templateThreeColumnContainer .leftCol=
+umnContent,.templateThreeColumnContainer .rightColumnContent{padding-left:3=
+px!important;padding-right:3px!important;padding-bottom:10px!important}#tem=
+plateCallToAction,#templateRows,#templateStrapline,.fullWidthImageOuter,.in=
+troTextBlock,.mainImage,.templateRowsInner,.templateSectionTitle,.templateT=
+hreeColumns,.templateTwoColumns,.templateTwoColumnsPlaceholder{width:100%!i=
+mportant}.footerContent{font-size:14px!important;line-height:115%!important=
+}.footerContent a{display:block!important} .templateRowLeft {width:160px!im=
+portant} .templateRowLeft .columnImage {width:160px!important;} #bodyTable,=
+ #templateHeader,#templateFooter,#templateSubFooter,#templateNav{width:100%=
+!important;} .memberHeadTextField, .memberHeadRenewMembership {font-size:12=
+px!important; line-height:120%!important;}.membersHeaderLogo #headerImage {=
+width:100px!important; height:auto!important;}=09#templateMembersHeader #te=
+mplateBranding {min-height:80px!important;}=09#templateMembersHeader {backg=
+round:none!important;} *[class].templateTwoColumnContainer  {display:table!=
+important; width:100%!important;} *[class].templateTwoColumnContainer .left=
+ColumnContent img, *[class].templateTwoColumnContainer .rightColumnContent =
+img {width:100%!important; max-width:100%!important} *[class].templateTwoCo=
+lumnContainer .leftColumnContent, *[class].templateTwoColumnContainer .righ=
+tColumnContent {padding:10px 0!important;} *[class].TextBlockInpageOuter {w=
+idth:100%!important;} } /*]]>*/ </style><!--[if gte mso 14]> <style type=3D=
+"text/css"> .navigation a {border:10px solid #ffffff; border-spacing:10px; =
+border-collapse:separate; text-decoration:none;}  .bigCta, .smallCta, .smal=
+lRowCta, .smallShopCta, .panelCalltoactionShop a, .panelCalltoaction a, .bi=
+gCtaWrapper a {border:10px solid #00aed3; color:#fff; text-decoration:none;=
+ font-family:Arial,Helvetica,sans-serif;} .bigCta:visited, .smallCta:visite=
+d, .smallRowCta:visited, .smallShopCta:visited, .panelCalltoactionShop a:vi=
+sited, .panelCalltoaction a:visited, .bigCtaWrapper a:visited {color:#fff; =
+text-decoration:none;} .strapline h1 {border-top:10px solid #fff; border-bo=
+ttom:10px solid #fff;} .templateSectionTitle h2 {border:20px solid #e5e5e5;=
+ background:#e5e5e5;} </style> <![endif]--></head><body style=3D"-webkit-te=
+xt-size-adjust: 100%;-ms-text-size-adjust: 100%;margin: 0;padding: 0;backgr=
+ound-color: #fff;height: 100%!important;width: 100%!important;"><CENTER><FO=
+NT SIZE=3D"1" COLOR=3D"#000000" FACE=3D"ARIAL">This message contains graphi=
+cs.  If you do not see the graphics, <A href=3D"http://links.e.tate.org.uk/=
+servlet/MailView?ms=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&j=3DODAwMTkyMTA3S=
+0&mt=3D1&rt=3D0">click here to view</A>.</FONT><font face=3D"ARIAL" color=
+=3D"#808080" size=3D"2"><br></font></CENTER><center><table width=3D"100%" a=
+lign=3D"center" id=3D"bodyTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;m=
+so-table-lspace: 0;mso-table-rspace: 0;margin: 0;padding: 0;background-colo=
+r: #fff;border-collapse: collapse!important;height: 100%!important;width: 1=
+00%!important;">                              <tr>                     <td =
+align=3D"center" id=3D"bodyCell" valign=3D"top" style=3D"margin: 0px;paddin=
+g: 0px;width: 100% !important;height: 100% !important;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: =
+0;"><table id=3D"templateContainer" style=3D"width: 600px;border-collapse: =
+collapse !important;max-width: 600px;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0">                                       =
+               <tr>                                 <td align=3D"center" cl=
+ass=3D"templateContainerInner" valign=3D"top" style=3D"-ms-text-size-adjust=
+: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace:=
+ 0;"><!-- BEGIN HEADER // -->                                 <table width=
+=3D"100%" id=3D"templateHeader" style=3D"width: 600px;border-bottom-color: =
+rgb(209, 209, 209);border-bottom-width: 1px;border-bottom-style: solid;bord=
+er-collapse: collapse !important;max-width: 600px;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;bo=
+rder-bottom: 1px solid #d1d1d1;" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">                                                                    =
+          <tr>                                             <td class=3D"hea=
+derContent" style=3D"padding: 0px;text-align: left;color: rgb(80, 80, 80);l=
+ine-height: 150%;font-family: Arial,Helvetica,sans-serif;font-size: 14px;ve=
+rtical-align: middle;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;mso-table-lspace: 0;mso-table-rspace: 0;"><table width=3D"100%" id=3D"t=
+emplateBranding" style=3D"border-collapse: collapse !important;-ms-text-siz=
+e-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table=
+-rspace: 0;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">             =
+                                                                           =
+              <tr>                                                         =
+<td class=3D"headerLogo" valign=3D"top" style=3D"width: 100%;text-align: ce=
+nter;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-ls=
+pace: 0;mso-table-rspace: 0;"><img  title=3D"Tate logo" id=3D"headerImage" =
+style=3D"margin: 0px auto; outline: 0px; border: 0px currentColor; border-i=
+mage: none; width: auto; height: auto; text-align: center; line-height: 100=
+%; text-decoration: none; -ms-interpolation-mode: bicubic; max-width: 600px=
+;" alt=3D"Tate logo" src=3D"http://static.tate.org.uk/1/email-template-furn=
+iture/Logo2.jpg" /></td>                                                   =
+  </tr>                                                                    =
+                          </table>                                         =
+    <table width=3D"600" id=3D"templateNav" style=3D"border-collapse: colla=
+pse !important;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;ms=
+o-table-lspace: 0;mso-table-rspace: 0;" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0">                                                             =
+                                         <tr>                              =
+                           <td class=3D"navigation" style=3D"padding: 19px =
+0px;text-align: center;border-top-color: rgb(209, 209, 209);border-top-widt=
+h: 1px;border-top-style: solid;-ms-text-size-adjust: 100%;-webkit-text-size=
+-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;border-top: 1px solid=
+ #d1d1d1;"><a name=3D"nav_exhibitions" title=3D"nav_exhibitions" style=3D"p=
+adding: 10px 15px; color: rgb(51, 51, 51); font-family: Arial,Helvetica,san=
+s-serif; font-size: 14px; font-weight: 400; text-decoration: none; -ms-text=
+-size-adjust: 100%; -webkit-text-size-adjust: 100%;" href=3D"http://links.e=
+.tate.org.uk/ctt?kn=3D14&ms=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=
+=3DODAwMTkyMTA3S0&mt=3D1&rt=3D0" target=3D"_blank" >Exhibitions</a>&nbsp;<a=
+ name=3D"nav_events" title=3D"nav_events" style=3D"padding: 10px 15px; colo=
+r: rgb(51, 51, 51); font-family: Arial,Helvetica,sans-serif; font-size: 14p=
+x; font-weight: 400; text-decoration: none; -ms-text-size-adjust: 100%; -we=
+bkit-text-size-adjust: 100%;" href=3D"http://links.e.tate.org.uk/ctt?kn=3D3=
+1&ms=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DODAwMTkyMTA3S0&mt=3D1&=
+rt=3D0" target=3D"_blank" >Events</a>&nbsp;<a name=3D"nav_members" title=3D=
+"nav_members" style=3D"padding: 10px 15px; color: rgb(51, 51, 51); font-fam=
+ily: Arial,Helvetica,sans-serif; font-size: 14px; font-weight: 400; text-de=
+coration: none; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;=
+" href=3D"http://links.e.tate.org.uk/ctt?kn=3D7&ms=3DNDk5MTcyNzkS1&r=3DMjMy=
+MjgxNTYyNDMS1&b=3D0&j=3DODAwMTkyMTA3S0&mt=3D1&rt=3D0" target=3D"_blank" >Me=
+mbership</a>&nbsp;<a name=3D"nav_shop" title=3D"nav_shop" style=3D"padding:=
+ 10px 15px; color: rgb(51, 51, 51); font-family: Arial,Helvetica,sans-serif=
+; font-size: 14px; font-weight: 400; text-decoration: none; -ms-text-size-a=
+djust: 100%; -webkit-text-size-adjust: 100%;" href=3D"http://links.e.tate.o=
+rg.uk/ctt?kn=3D5&ms=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DODAwMTk=
+yMTA3S0&mt=3D1&rt=3D0" target=3D"_blank" >Shop</a></td>                    =
+                                 </tr>                                     =
+                                                         </table></td>     =
+                                    </tr>                                  =
+                                    </table>                               =
+  <!-- // END HEADER -->                                 <table width=3D"10=
+0%" class=3D"bodySectionOuter" style=3D"border-collapse: collapse !importan=
+t;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspac=
+e: 0;mso-table-rspace: 0;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+>                                                                          =
+    <tr>                                             <!-- BODY SECTION STAR=
+T -->                                             <td align=3D"center" clas=
+s=3D"bodySection" valign=3D"top" style=3D"border-bottom-color: rgb(209, 209=
+, 209);border-bottom-width: 1px;border-bottom-style: solid;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rsp=
+ace: 0;border-bottom: 1px solid #d1d1d1;"><table width=3D"600" id=3D"templa=
+teStrapline" style=3D"width: 600px;border-collapse: collapse !important;-ms=
+-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;=
+mso-table-rspace: 0;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">    =
+                                                                           =
+                       <tr>                                                =
+         <td class=3D"strapline" style=3D"-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;"><h1 styl=
+e=3D"margin: 0px 0px 10px; padding: 14px 0px; text-align: center; color: rg=
+b(32, 32, 32) !important; line-height: 100%; letter-spacing: normal; font-f=
+amily: Arial,Helvetica,sans-serif; font-size: 26px; font-style: normal; fon=
+t-weight: 700; display: block;"><a name=3D"strapline_link" style=3D"color: =
+rgb(51, 51, 51); font-size: 20px; font-weight: 400; text-decoration: none; =
+-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" href=3D"http:/=
+/links.e.tate.org.uk/ctt?kn=3D1&ms=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=
+=3D0&j=3DODAwMTkyMTA3S0&mt=3D1&rt=3D0" target=3D"_blank" >Tate Talks this N=
+ovember</a></h1></td>                                                     <=
+/tr>                                                                       =
+                       </table>                                            =
+ <table width=3D"600" align=3D"center" class=3D"mainImage" style=3D"width: =
+600px;border-collapse: collapse !important;-ms-text-size-adjust: 100%;-webk=
+it-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" valign=3D"top">                 =
+                                                                           =
+          <tr>                                                         <td =
+align=3D"center" class=3D"fullWidthImageWrapper" valign=3D"top" style=3D"-m=
+s-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0=
+;mso-table-rspace: 0;"><a name=3D"cta_4662852" style=3D"-ms-text-size-adjus=
+t: 100%; -webkit-text-size-adjust: 100%;" href=3D"http://links.e.tate.org.u=
+k/ctt?kn=3D22&ms=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DODAwMTkyMT=
+A3S0&mt=3D1&rt=3D0" target=3D"_blank" ><img  title=3D"Ushio Shinohara Doll =
+Festival 1966 Hyogo Prefectural Museum of Art (Yamamura Collection)&copy; U=
+shio and Noriko Shinohara" class=3D"fullWidthImage" style=3D"outline: 0px;b=
+order: 0px currentColor;border-image: none;height: auto;line-height: 100%;t=
+ext-decoration: none;max-width: 600px;-ms-interpolation-mode: bicubic;width=
+: 600px;" alt=3D"Ushio Shinohara Doll Festival 1966 Hyogo Prefectural Museu=
+m of Art (Yamamura Collection)&copy; Ushio and Noriko Shinohara" src=3D'htt=
+p://contentz.mkt941.com/ra/2015/34147/11/49917279/dollfestival.jpg'    /></=
+a></td>                                                     </tr>          =
+                                                                           =
+         </table>                                             <table align=
+=3D"center" class=3D"introTextBlock" style=3D"width: 600px;text-align: left=
+;margin-bottom: 30px;border-collapse: collapse !important;-ms-text-size-adj=
+ust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspa=
+ce: 0;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">                  =
+                                                                           =
+         <tr>                                                         <td c=
+lass=3D"textBlock" style=3D"text-align: left;color: rgb(80, 80, 80);line-he=
+ight: 150%;padding-top: 10px;padding-bottom: 10px;font-family: Arial,Helvet=
+ica,sans-serif;font-size: 14px;-ms-text-size-adjust: 100%;-webkit-text-size=
+-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;">This November, we l=
+aunch our event series <a name=3D"nordic_1" href=3D"http://links.e.tate.org=
+.uk/ctt?kn=3D20&ms=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DODAwMTky=
+MTA3S0&mt=3D1&rt=3D0" target=3D"_blank"  style=3D"-webkit-text-size-adjust:=
+ 100%;-ms-text-size-adjust: 100%;color: #0090b5;font-weight: 700;text-decor=
+ation: none;">Nordic Art and its Discontents </a>with a talk that looks at =
+the &lsquo;Nordic Miracle.&rsquo; We host a panel of artists, scientists an=
+d architects to discuss the different forms of light in the event series <a=
+ name=3D"l and d_1" href=3D"http://links.e.tate.org.uk/ctt?kn=3D24&ms=3DNDk=
+5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DODAwMTkyMTA3S0&mt=3D1&rt=3D0" ta=
+rget=3D"_blank"  style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adju=
+st: 100%;color: #0090b5;font-weight: 700;text-decoration: none;">Light and =
+Dark Matters</a>, and we critically explore pop art throughout the 1960s an=
+d 1970s in the <a name=3D"pop_1" href=3D"http://links.e.tate.org.uk/ctt?kn=
+=3D12&ms=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DODAwMTkyMTA3S0&mt=
+=3D1&rt=3D0" target=3D"_blank"  style=3D"-webkit-text-size-adjust: 100%;-ms=
+-text-size-adjust: 100%;color: #0090b5;font-weight: 700;text-decoration: no=
+ne;">Art of Pop: Global Perspectives</a>. Also to be explored is the relati=
+onship between humans and nature in <a name=3D"bio_1" href=3D"http://links.=
+e.tate.org.uk/ctt?kn=3D3&ms=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=
+=3DODAwMTkyMTA3S0&mt=3D1&rt=3D0" target=3D"_blank"  style=3D"-webkit-text-s=
+ize-adjust: 100%;-ms-text-size-adjust: 100%;color: #0090b5;font-weight: 700=
+;text-decoration: none;">Bio Art: Altered Realities</a>.</td>              =
+                                       </tr>                               =
+                                                               </table>    =
+                                         <table width=3D"600" id=3D"templat=
+eCallToAction" style=3D"width: 600px;text-align: left;color: rgb(80, 80, 80=
+);line-height: 150%;font-family: Arial,Helvetica,sans-serif;font-size: 14px=
+;border-top-color: rgb(209, 209, 209);border-top-width: 1px;border-top-styl=
+e: solid;border-collapse: collapse !important;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;border=
+-top: 1px solid #d1d1d1;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=
+                                                                           =
+                           <tr>                                            =
+             <td class=3D"CallToActionText" style=3D"padding: 30px 0px;widt=
+h: 60%;font-size: 14px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;mso-table-lspace: 0;mso-table-rspace: 0;"><p style=3D"text-align: lef=
+t; color: rgb(80, 80, 80); line-height: 150%; font-family: Arial,Helvetica,=
+sans-serif; font-size: 14px; -ms-text-size-adjust: 100%; -webkit-text-size-=
+adjust: 100%;">Find out more about Tate Talks this November.</p></td>      =
+                                                   <td class=3D"bigCtaWrapp=
+er" style=3D"text-align: right;-ms-text-size-adjust: 100%;-webkit-text-size=
+-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;vertical-align: cente=
+r;"><a name=3D"cta_4955827" style=3D"background: rgb(0, 174, 211);padding: =
+10px 20px;height: 50px;color: rgb(255, 255, 255) !important;line-height: 50=
+px;font-family: Arial,Helvetica,sans-serif;font-size: 16px;text-decoration:=
+ none !important;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;=
+vertical-align: center;" href=3D"http://links.e.tate.org.uk/ctt?kn=3D30&ms=
+=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DODAwMTkyMTA3S0&mt=3D1&rt=
+=3D0" target=3D"_blank" >FIND OUT MORE</a></td>                            =
+                         </tr>                                             =
+                                                 </table></td>             =
+                            </tr>                                          =
+                            </table>                                 <!-- B=
+ODY SECTION END // -->                                 <table width=3D"600"=
+ class=3D"templateTwoColumns panelRendered" style=3D"width: 600px;border-bo=
+ttom-color: rgb(209, 209, 209);border-bottom-width: 1px;border-bottom-style=
+: solid;border-collapse: collapse !important;-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;border-=
+bottom: 1px solid #d1d1d1;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+">                                                                         =
+     <tr>                                             <td align=3D"center" =
+class=3D"templateTwoColumnContainer" valign=3D"top" style=3D"width: 300px;p=
+adding-top: 30px;padding-bottom: 20px;-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;"><table width=
+=3D"100%" style=3D"border-collapse: collapse !important;-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace=
+: 0;" border=3D"0" cellspacing=3D"0" cellpadding=3D"20">                   =
+                                                                           =
+        <tr>                                                         <td cl=
+ass=3D"leftColumnContent" style=3D"padding: 0px 20px 20px 0px;width: 280px;=
+text-align: left;color: rgb(80, 80, 80);line-height: 150%;font-family: Aria=
+l,Helvetica,sans-serif;font-size: 14px;max-width: 280px;-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace=
+: 0;padding-top: 0;padding-bottom: 20px;padding-right: 20px;padding-left: 0=
+;"><a name=3D"cta_167486" class=3D"panelImageLink" style=3D"-ms-text-size-a=
+djust: 100%; -webkit-text-size-adjust: 100%;" href=3D"http://links.e.tate.o=
+rg.uk/ctt?kn=3D11&ms=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DODAwMT=
+kyMTA3S0&mt=3D1&rt=3D0" target=3D"_blank" ><img  width=3D"280" title=3D"Det=
+ail of the installation Subject: What Women Want, Petra Bauer, shown within=
+ the exhibition A Voice of One&rsquo;s Own at Malm&ouml; Konstmuseum (2014)=
+. Photo: Malm&ouml; Konstmuseum" class=3D"columnImage" style=3D"outline: 0p=
+x; border: 0px currentColor; border-image: none; height: auto; line-height:=
+ 100%; text-decoration: none; display: inline; -ms-interpolation-mode: bicu=
+bic; max-width: 280px;" alt=3D"Detail of the installation Subject: What Wom=
+en Want, Petra Bauer, shown within the exhibition A Voice of One&rsquo;s Ow=
+n at Malm&ouml; Konstmuseum (2014). Photo: Malm&ouml; Konstmuseum" src=3D'h=
+ttp://contentz.mkt941.com/ra/2015/34147/11/49917279/nordic%20model.jpg'    =
+/></a></td>                                                     </tr>      =
+                                               <tr>                        =
+                                 <td class=3D"leftColumnContent" valign=3D"=
+top" style=3D"padding: 0px 20px 20px 0px;width: 280px;text-align: left;colo=
+r: rgb(80, 80, 80);line-height: 150%;font-family: Arial,Helvetica,sans-seri=
+f;font-size: 14px;max-width: 280px;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;padding-top: 0;pa=
+dding-bottom: 20px;padding-right: 20px;padding-left: 0;"><table class=3D"pa=
+nelInformation" style=3D"width: 100%;padding-bottom: 30px;border-collapse: =
+collapse !important;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 10=
+0%;mso-table-lspace: 0;mso-table-rspace: 0;" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0">                                                        =
+                                                                      <tr> =
+                                                                    <td cla=
+ss=3D"panelTitle" style=3D"padding: 0px;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;"><a name=3D=
+"cta_3985488" class=3D"panelTitleLink" style=3D"color: rgb(42, 42, 42);text=
+-decoration: none;border-bottom-color: rgb(0, 174, 211);border-bottom-width=
+: 1px;border-bottom-style: solid;-ms-text-size-adjust: 100%;-webkit-text-si=
+ze-adjust: 100%;border-bottom: 1px solid #00aed3;" href=3D"http://links.e.t=
+ate.org.uk/ctt?kn=3D33&ms=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DO=
+DAwMTkyMTA3S0&mt=3D1&rt=3D0" target=3D"_blank" >                           =
+                                          <h3 style=3D"margin: 0px 0px 4px;=
+ text-align: left; color: rgb(96, 96, 96) !important; line-height: 100%; le=
+tter-spacing: normal; font-family: Arial,Helvetica,sans-serif; font-size: 2=
+2px; font-weight: 400; display: block;">What happened to the Nordic model?<=
+/h3>                                                                     </=
+a></td>                                                                 </t=
+r>                                                                 <tr>    =
+                                                                 <td class=
+=3D"panelSubtitle" style=3D"padding: 0px;color: rgb(51, 51, 51);line-height=
+: 150%;font-family: Arial,Helvetica,sans-serif;font-size: 14px;-ms-text-siz=
+e-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table=
+-rspace: 0;">Tate Modern</td>                                              =
+                   </tr>                                                   =
+              <tr>                                                         =
+            <td class=3D"panelDate" style=3D"padding: 0px;color: rgb(51, 51=
+, 51);line-height: 150%;font-family: Arial,Helvetica,sans-serif;font-size: =
+14px;font-weight: 700;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: =
+100%;mso-table-lspace: 0;mso-table-rspace: 0;">Sat 14 Nov, 15.00 &ndash; 17=
+.00</td>                                                                 </=
+tr>                                                                 <tr>   =
+                                                                  <td class=
+=3D"panelText" style=3D"padding: 10px 0px 30px;color: rgb(51, 51, 51);line-=
+height: 150%;font-family: Arial,Helvetica,sans-serif;font-size: 14px;-ms-te=
+xt-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso=
+-table-rspace: 0;padding-top: 10px;padding-bottom: 30px;"><span>After the i=
+nfamous 90&rsquo;s Young British Artists (YBA) there came the &lsquo;Nordic=
+ Miracle&rsquo;. Like the label YBA, it became a tool to promote the art of=
+ Northern Europe, generously supported by a Nordic welfare state system tha=
+t places art and culture at the heart of society.&nbsp;</span></td>        =
+                                                         </tr>             =
+                                                    <tr>                   =
+                                                  <td class=3D"panelCalltoa=
+ction" style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;m=
+so-table-lspace: 0;mso-table-rspace: 0;vertical-align: center;"><a name=3D"=
+cta_6581461" class=3D"smallCta" style=3D"background: rgb(0, 174, 211);paddi=
+ng: 10px 20px;height: 30px;color: rgb(255, 255, 255) !important;line-height=
+: 30px;font-family: Arial,Helvetica,sans-serif;font-size: 14px;text-decorat=
+ion: none !important;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;vertical-align: center;" href=3D"http://links.e.tate.org.uk/ctt?kn=3D34=
+&ms=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DODAwMTkyMTA3S0&mt=3D1&r=
+t=3D0" target=3D"_blank" >Book now</a></td>                                =
+                                 </tr>                                     =
+                                                                           =
+      </table></td>                                                     </t=
+r>                                                                         =
+                     </table></td>                                         =
+    <td align=3D"center" class=3D"templateTwoColumnContainer" valign=3D"top=
+" style=3D"width: 300px;padding-top: 30px;padding-bottom: 20px;-ms-text-siz=
+e-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table=
+-rspace: 0;"><table width=3D"100%" style=3D"border-collapse: collapse !impo=
+rtant;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-l=
+space: 0;mso-table-rspace: 0;" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"20">                                                                   =
+                                   <tr>                                    =
+                     <td class=3D"rightColumnContent" style=3D"padding: 0px=
+ 0px 20px 20px;width: 280px;text-align: left;color: rgb(80, 80, 80);line-he=
+ight: 150%;font-family: Arial,Helvetica,sans-serif;font-size: 14px;max-widt=
+h: 280px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-tabl=
+e-lspace: 0;mso-table-rspace: 0;padding-top: 0;padding-bottom: 20px;padding=
+-left: 20px;padding-right: 0;"><a name=3D"cta_4611182" class=3D"panelImageL=
+ink" style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" =
+href=3D"http://links.e.tate.org.uk/ctt?kn=3D28&ms=3DNDk5MTcyNzkS1&r=3DMjMyM=
+jgxNTYyNDMS1&b=3D0&j=3DODAwMTkyMTA3S0&mt=3D1&rt=3D0" target=3D"_blank" ><im=
+g  width=3D"280" title=3D"Kiki Kogelnik Fallout c.1964 Private collection &=
+copy; Andrew Rinkhy / Kiki Kogelnik Foundation, Vienna / New York" class=3D=
+"columnImage" style=3D"outline: 0px; border: 0px currentColor; border-image=
+: none; height: auto; line-height: 100%; text-decoration: none; display: in=
+line; -ms-interpolation-mode: bicubic; max-width: 280px;" alt=3D"Kiki Kogel=
+nik Fallout c.1964 Private collection &copy; Andrew Rinkhy / Kiki Kogelnik =
+Foundation, Vienna / New York" src=3D'http://contentz.mkt941.com/ra/2015/34=
+147/11/49917279/global%20art%20of%20pop.jpg'    /></a></td>                =
+                                     </tr>                                 =
+                    <tr>                                                   =
+      <td class=3D"rightColumnContent" valign=3D"top" style=3D"padding: 0px=
+ 0px 20px 20px;width: 280px;text-align: left;color: rgb(80, 80, 80);line-he=
+ight: 150%;font-family: Arial,Helvetica,sans-serif;font-size: 14px;max-widt=
+h: 280px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-tabl=
+e-lspace: 0;mso-table-rspace: 0;padding-top: 0;padding-bottom: 20px;padding=
+-left: 20px;padding-right: 0;"><table class=3D"panelInformation" style=3D"w=
+idth: 100%;padding-bottom: 30px;border-collapse: collapse !important;-ms-te=
+xt-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso=
+-table-rspace: 0;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">       =
+                                                                           =
+                                            <tr>                           =
+                                          <td class=3D"panelTitle" style=3D=
+"padding: 0px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso=
+-table-lspace: 0;mso-table-rspace: 0;"><a name=3D"cta_1078848" class=3D"pan=
+elTitleLink" style=3D"color: rgb(42, 42, 42);text-decoration: none;border-b=
+ottom-color: rgb(0, 174, 211);border-bottom-width: 1px;border-bottom-style:=
+ solid;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;border-bot=
+tom: 1px solid #00aed3;" href=3D"http://links.e.tate.org.uk/ctt?kn=3D18&ms=
+=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DODAwMTkyMTA3S0&mt=3D1&rt=
+=3D0" target=3D"_blank" >                                                  =
+                   <h3 style=3D"margin: 0px 0px 4px; text-align: left; colo=
+r: rgb(96, 96, 96) !important; line-height: 100%; letter-spacing: normal; f=
+ont-family: Arial,Helvetica,sans-serif; font-size: 22px; font-weight: 400; =
+display: block;">The Art of Pop: Global Perspectives</h3>                  =
+                                                   </a></td>               =
+                                                  </tr>                    =
+                                             <tr>                          =
+                                           <td class=3D"panelSubtitle" styl=
+e=3D"padding: 0px;color: rgb(51, 51, 51);line-height: 150%;font-family: Ari=
+al,Helvetica,sans-serif;font-size: 14px;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;">Tate Moder=
+n</td>                                                                 </tr=
+>                                                                 <tr>     =
+                                                                <td class=
+=3D"panelDate" style=3D"padding: 0px;color: rgb(51, 51, 51);line-height: 15=
+0%;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: 700=
+;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace=
+: 0;mso-table-rspace: 0;">Tue 17 Nov, 18.30 &ndash; 20.30</td>             =
+                                                    </tr>                  =
+                                               <tr>                        =
+                                             <td class=3D"panelText" style=
+=3D"padding: 10px 0px 30px;color: rgb(51, 51, 51);line-height: 150%;font-fa=
+mily: Arial,Helvetica,sans-serif;font-size: 14px;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;pad=
+ding-top: 10px;padding-bottom: 30px;"><span>Coinciding with The EY Exhibiti=
+on: The World Goes Pop at Tate Modern this autumn, this event brings artist=
+s Martha Rosler and Sanja Ivekovi=C4=87 together to critically explore how =
+pop art of the 1960s and 1970s became a global language of subversion, cons=
+idering its legacy today.&nbsp;</span></td>                                =
+                                 </tr>                                     =
+                            <tr>                                           =
+                          <td class=3D"panelCalltoaction" style=3D"-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-t=
+able-rspace: 0;vertical-align: center;"><a name=3D"cta_7306381" class=3D"sm=
+allCta" style=3D"background: rgb(0, 174, 211);padding: 10px 20px;height: 30=
+px;color: rgb(255, 255, 255) !important;line-height: 30px;font-family: Aria=
+l,Helvetica,sans-serif;font-size: 14px;text-decoration: none !important;-ms=
+-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;vertical-align: cent=
+er;" href=3D"http://links.e.tate.org.uk/ctt?kn=3D6&ms=3DNDk5MTcyNzkS1&r=3DM=
+jMyMjgxNTYyNDMS1&b=3D0&j=3DODAwMTkyMTA3S0&mt=3D1&rt=3D0" target=3D"_blank" =
+>Book now</a></td>                                                         =
+        </tr>                                                              =
+                                                        </table></td>      =
+                                               </tr>                       =
+                                                                       </ta=
+ble></td>                                         </tr>                    =
+                                                  </table>                 =
+                <!-- // END 2 COLUMNS ROW -->                              =
+   <table width=3D"600" class=3D"templateTwoColumns panelRendered" style=3D=
+"width: 600px;border-bottom-color: rgb(209, 209, 209);border-bottom-width: =
+1px;border-bottom-style: solid;border-collapse: collapse !important;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-=
+table-rspace: 0;border-bottom: 1px solid #d1d1d1;" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0">                                                  =
+                            <tr>                                           =
+  <td align=3D"center" class=3D"templateTwoColumnContainer" valign=3D"top" =
+style=3D"width: 300px;padding-top: 30px;padding-bottom: 20px;-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-r=
+space: 0;"><table width=3D"100%" style=3D"border-collapse: collapse !import=
+ant;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lsp=
+ace: 0;mso-table-rspace: 0;" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+20">                                                                       =
+                               <tr>                                        =
+                 <td class=3D"leftColumnContent" style=3D"padding: 0px 20px=
+ 20px 0px;width: 280px;text-align: left;color: rgb(80, 80, 80);line-height:=
+ 150%;font-family: Arial,Helvetica,sans-serif;font-size: 14px;max-width: 28=
+0px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lsp=
+ace: 0;mso-table-rspace: 0;padding-top: 0;padding-bottom: 20px;padding-righ=
+t: 20px;padding-left: 0;"><a name=3D"cta_9172657" class=3D"panelImageLink" =
+style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" href=
+=3D"http://links.e.tate.org.uk/ctt?kn=3D25&ms=3DNDk5MTcyNzkS1&r=3DMjMyMjgxN=
+TYyNDMS1&b=3D0&j=3DODAwMTkyMTA3S0&mt=3D1&rt=3D0" target=3D"_blank" ><img  w=
+idth=3D"280" title=3D"A purple haze shows dark matter flanking the Bullet C=
+luster X-ray: NASA/CXC/CfA/ M.Markevitch et al.; Lensing Map: NASA/STScI; E=
+SO WFI; Magellan/U.Arizona/ D.Clowe et al.; Optical: NASA/STScI; Magellan/U=
+.Arizona/D.Clowe et al." class=3D"columnImage" style=3D"outline: 0px; borde=
+r: 0px currentColor; border-image: none; height: auto; line-height: 100%; t=
+ext-decoration: none; display: inline; -ms-interpolation-mode: bicubic; max=
+-width: 280px;" alt=3D"A purple haze shows dark matter flanking the Bullet =
+Cluster X-ray: NASA/CXC/CfA/ M.Markevitch et al.; Lensing Map: NASA/STScI; =
+ESO WFI; Magellan/U.Arizona/ D.Clowe et al.; Optical: NASA/STScI; Magellan/=
+U.Arizona/D.Clowe et al." src=3D'http://contentz.mkt941.com/ra/2015/34147/1=
+1/49917279/light%20and%20dark.jpg'    /></a></td>                          =
+                           </tr>                                           =
+          <tr>                                                         <td =
+class=3D"leftColumnContent" valign=3D"top" style=3D"padding: 0px 20px 20px =
+0px;width: 280px;text-align: left;color: rgb(80, 80, 80);line-height: 150%;=
+font-family: Arial,Helvetica,sans-serif;font-size: 14px;max-width: 280px;-m=
+s-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0=
+;mso-table-rspace: 0;padding-top: 0;padding-bottom: 20px;padding-right: 20p=
+x;padding-left: 0;"><table class=3D"panelInformation" style=3D"width: 100%;=
+padding-bottom: 30px;border-collapse: collapse !important;-ms-text-size-adj=
+ust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspa=
+ce: 0;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">                  =
+                                                                           =
+                                 <tr>                                      =
+                               <td class=3D"panelTitle" style=3D"padding: 0=
+px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspa=
+ce: 0;mso-table-rspace: 0;"><a name=3D"cta_2878578" class=3D"panelTitleLink=
+" style=3D"color: rgb(42, 42, 42);text-decoration: none;border-bottom-color=
+: rgb(0, 174, 211);border-bottom-width: 1px;border-bottom-style: solid;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;border-bottom: 1px so=
+lid #00aed3;" href=3D"http://links.e.tate.org.uk/ctt?kn=3D19&ms=3DNDk5MTcyN=
+zkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DODAwMTkyMTA3S0&mt=3D1&rt=3D0" target=
+=3D"_blank" >                                                              =
+       <h3 style=3D"margin: 0px 0px 4px; text-align: left; color: rgb(96, 9=
+6, 96) !important; line-height: 100%; letter-spacing: normal; font-family: =
+Arial,Helvetica,sans-serif; font-size: 22px; font-weight: 400; display: blo=
+ck;">Light and Dark Matters</h3>                                           =
+                          </a></td>                                        =
+                         </tr>                                             =
+                    <tr>                                                   =
+                  <td class=3D"panelSubtitle" style=3D"padding: 0px;color: =
+rgb(51, 51, 51);line-height: 150%;font-family: Arial,Helvetica,sans-serif;f=
+ont-size: 14px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;ms=
+o-table-lspace: 0;mso-table-rspace: 0;">Tate Modern</td>                   =
+                                              </tr>                        =
+                                         <tr>                              =
+                                       <td class=3D"panelDate" style=3D"pad=
+ding: 0px;color: rgb(51, 51, 51);line-height: 150%;font-family: Arial,Helve=
+tica,sans-serif;font-size: 14px;font-weight: 700;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;">F=
+ri 20 - Sat 21 Nov</td>                                                    =
+             </tr>                                                         =
+        <tr>                                                               =
+      <td class=3D"panelText" style=3D"padding: 10px 0px 30px;color: rgb(51=
+, 51, 51);line-height: 150%;font-family: Arial,Helvetica,sans-serif;font-si=
+ze: 14px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-tabl=
+e-lspace: 0;mso-table-rspace: 0;padding-top: 10px;padding-bottom: 30px;">Ov=
+er twenty four hours at Tate Modern leading artists, scientists, philosophe=
+rs, theorists and the public come together to debate, share and uncover our=
+ contemporary experience of light, dark and dark matter. What are the many =
+forms of light and dark that surround us?</td>                             =
+                                    </tr>                                  =
+                               <tr>                                        =
+                             <td class=3D"panelCalltoaction" style=3D"-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;ms=
+o-table-rspace: 0;vertical-align: center;"><a name=3D"cta_6638279" class=3D=
+"smallCta" style=3D"background: rgb(0, 174, 211);padding: 10px 20px;height:=
+ 30px;color: rgb(255, 255, 255) !important;line-height: 30px;font-family: A=
+rial,Helvetica,sans-serif;font-size: 14px;text-decoration: none !important;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;vertical-align: c=
+enter;" href=3D"http://links.e.tate.org.uk/ctt?kn=3D13&ms=3DNDk5MTcyNzkS1&r=
+=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DODAwMTkyMTA3S0&mt=3D1&rt=3D0" target=3D"_bla=
+nk" >Book now</a></td>                                                     =
+            </tr>                                                          =
+                                                            </table></td>  =
+                                                   </tr>                   =
+                                                                           =
+</table></td>                                             <td align=3D"cent=
+er" class=3D"templateTwoColumnContainer" valign=3D"top" style=3D"width: 300=
+px;padding-top: 30px;padding-bottom: 20px;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;"><table w=
+idth=3D"100%" style=3D"border-collapse: collapse !important;-ms-text-size-a=
+djust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rs=
+pace: 0;" border=3D"0" cellspacing=3D"0" cellpadding=3D"20">               =
+                                                                           =
+            <tr>                                                         <t=
+d class=3D"rightColumnContent" style=3D"padding: 0px 0px 20px 20px;width: 2=
+80px;text-align: left;color: rgb(80, 80, 80);line-height: 150%;font-family:=
+ Arial,Helvetica,sans-serif;font-size: 14px;max-width: 280px;-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-r=
+space: 0;padding-top: 0;padding-bottom: 20px;padding-left: 20px;padding-rig=
+ht: 0;"><a name=3D"cta_5358066" class=3D"panelImageLink" style=3D"-ms-text-=
+size-adjust: 100%; -webkit-text-size-adjust: 100%;" href=3D"http://links.e.=
+tate.org.uk/ctt?kn=3D23&ms=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3D=
+ODAwMTkyMTA3S0&mt=3D1&rt=3D0" target=3D"_blank" ><img  width=3D"280" title=
+=3D"Yves Gellie Human Version (2007), Android Ever-1, Ever-2 and Ever-3/Kor=
+ea Image courtesy Yves Gellie" class=3D"columnImage" style=3D"outline: 0px;=
+ border: 0px currentColor; border-image: none; height: auto; line-height: 1=
+00%; text-decoration: none; display: inline; -ms-interpolation-mode: bicubi=
+c; max-width: 280px;" alt=3D"Yves Gellie Human Version (2007), Android Ever=
+-1, Ever-2 and Ever-3/Korea Image courtesy Yves Gellie" src=3D'http://conte=
+ntz.mkt941.com/ra/2015/34147/11/49917279/bio%20art.jpg'    /></a></td>     =
+                                                </tr>                      =
+                               <tr>                                        =
+                 <td class=3D"rightColumnContent" valign=3D"top" style=3D"p=
+adding: 0px 0px 20px 20px;width: 280px;text-align: left;color: rgb(80, 80, =
+80);line-height: 150%;font-family: Arial,Helvetica,sans-serif;font-size: 14=
+px;max-width: 280px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 10=
+0%;mso-table-lspace: 0;mso-table-rspace: 0;padding-top: 0;padding-bottom: 2=
+0px;padding-left: 20px;padding-right: 0;"><table class=3D"panelInformation"=
+ style=3D"width: 100%;padding-bottom: 30px;border-collapse: collapse !impor=
+tant;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-ls=
+pace: 0;mso-table-rspace: 0;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">                                                                       =
+                                                       <tr>                =
+                                                     <td class=3D"panelTitl=
+e" style=3D"padding: 0px;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;mso-table-lspace: 0;mso-table-rspace: 0;"><a name=3D"cta_6123695" c=
+lass=3D"panelTitleLink" style=3D"color: rgb(42, 42, 42);text-decoration: no=
+ne;border-bottom-color: rgb(0, 174, 211);border-bottom-width: 1px;border-bo=
+ttom-style: solid;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%=
+;border-bottom: 1px solid #00aed3;" href=3D"http://links.e.tate.org.uk/ctt?=
+kn=3D15&ms=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DODAwMTkyMTA3S0&m=
+t=3D1&rt=3D0" target=3D"_blank" >                                          =
+                           <h3 style=3D"margin: 0px 0px 4px; text-align: le=
+ft; color: rgb(96, 96, 96) !important; line-height: 100%; letter-spacing: n=
+ormal; font-family: Arial,Helvetica,sans-serif; font-size: 22px; font-weigh=
+t: 400; display: block;">Bio Art: Altered Realities</h3>                   =
+                                                  </a></td>                =
+                                                 </tr>                     =
+                                            <tr>                           =
+                                          <td class=3D"panelSubtitle" style=
+=3D"padding: 0px;color: rgb(51, 51, 51);line-height: 150%;font-family: Aria=
+l,Helvetica,sans-serif;font-size: 14px;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;">Tate Modern=
+</td>                                                                 </tr>=
+                                                                 <tr>      =
+                                                               <td class=3D=
+"panelDate" style=3D"padding: 0px;color: rgb(51, 51, 51);line-height: 150%;=
+font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: 700;-m=
+s-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0=
+;mso-table-rspace: 0;">Thu 26 Nov, 18.30 &ndash; 20.00</td>                =
+                                                 </tr>                     =
+                                            <tr>                           =
+                                          <td class=3D"panelText" style=3D"=
+padding: 10px 0px 30px;color: rgb(51, 51, 51);line-height: 150%;font-family=
+: Arial,Helvetica,sans-serif;font-size: 14px;-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;padding=
+-top: 10px;padding-bottom: 30px;">&lsquo;Bio art&rsquo; is an emerging fiel=
+d of artistic practice, which makes use of the tools and technologies of sc=
+ience to create artworks that explore the relationship between humans and n=
+ature. Writer, curator and author of <em>Bio Art: Altered Realities</em> Wi=
+lliam Myers joins artists Anna Dumitriu and Julia Lohmann to discuss the et=
+hics and aesthetics of working with living organisms and life processes.&nb=
+sp;</td>                                                                 </=
+tr>                                                                 <tr>   =
+                                                                  <td class=
+=3D"panelCalltoaction" style=3D"-ms-text-size-adjust: 100%;-webkit-text-siz=
+e-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;vertical-align: cent=
+er;"><a name=3D"cta_1099594" class=3D"smallCta" style=3D"background: rgb(0,=
+ 174, 211);padding: 10px 20px;height: 30px;color: rgb(255, 255, 255) !impor=
+tant;line-height: 30px;font-family: Arial,Helvetica,sans-serif;font-size: 1=
+4px;text-decoration: none !important;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;vertical-align: center;" href=3D"http://links.e.tate.or=
+g.uk/ctt?kn=3D21&ms=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DODAwMTk=
+yMTA3S0&mt=3D1&rt=3D0" target=3D"_blank" >Book now</a></td>                =
+                                                 </tr>                     =
+                                                                           =
+                      </table></td>                                        =
+             </tr>                                                         =
+                                     </table></td>                         =
+                </tr>                                                      =
+                </table>                                 <!-- // END 2 COLU=
+MNS ROW -->                                 <table width=3D"600" id=3D"temp=
+lateRows" style=3D"width: 600px;border-bottom-color: rgb(209, 209, 209);bor=
+der-bottom-width: 1px;border-bottom-style: solid;border-collapse: collapse =
+!important;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-ta=
+ble-lspace: 0;mso-table-rspace: 0;border-bottom: 1px solid #d1d1d1;" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0">                                =
+                                              <tr>                         =
+                    <td class=3D"templateRowsOuter" style=3D"-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-r=
+space: 0;"><!-- PANEL ROW ITEM --><!-- // PANEL ROW ITEM ENDS --></td>     =
+                                    </tr>                                  =
+                                    </table>                               =
+  <!-- // END FULL WIDTH IMAGE IN PAGE --><table width=3D"600" align=3D"cen=
+ter" class=3D"fullWidthImageOuter" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%=
+;mso-table-lspace: 0;mso-table-rspace: 0;border-collapse: collapse!importan=
+t;"><tr><td align=3D"center" class=3D"fullWidthImageInPage" valign=3D"top" =
+style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-tabl=
+e-lspace: 0;mso-table-rspace: 0;padding-top: 10px;padding-bottom: 10px;"><a=
+ name=3D"cta_1841333" href=3D"http://links.e.tate.org.uk/ctt?kn=3D17&ms=3DN=
+Dk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DODAwMTkyMTA3S0&mt=3D1&rt=3D0" =
+target=3D"_blank" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adj=
+ust: 100%;" ><img title=3D"Give a little Tate this Christmas" class=3D"full=
+WidthImage" style=3D"max-width: 600px; border: 0px; height: auto; line-heig=
+ht: 100%; outline: 0px; text-decoration: none;" alt=3D"Give a little Tate t=
+his Christmas" src=3D'http://contentz.mkt941.com/ra/2015/34147/11/49917279/=
+members%20banner.jpg'     width=3D"600" /></a></td></tr></table><!-- // END=
+ FULL WIDTH IMAGE IN PAGE --><table width=3D"100%" align=3D"center" id=3D"t=
+emplateSubFooter" style=3D"width: 600px;border-collapse: collapse !importan=
+t;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspac=
+e: 0;mso-table-rspace: 0;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+>                                                                          =
+    <tr>                                             <td class=3D"subFooter=
+Content" valign=3D"top" style=3D"background: rgb(171, 171, 171);padding: 10=
+px 0px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-=
+lspace: 0;mso-table-rspace: 0;"><table align=3D"center" style=3D"border-col=
+lapse: collapse !important;-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0">                                                 =
+                                                     <tr>                  =
+                                       <td style=3D"-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;=
+"><a name=3D"www_facebook_com_tategallery" id=3D"www_facebook_com_tategalle=
+ry" style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" h=
+ref=3D"http://links.e.tate.org.uk/ctt?kn=3D4&ms=3DNDk5MTcyNzkS1&r=3DMjMyMjg=
+xNTYyNDMS1&b=3D0&j=3DODAwMTkyMTA3S0&mt=3D1&rt=3D0" target=3D"_blank" ><img =
+ width=3D"42" title=3D"Facebook" align=3D"top" style=3D"outline: 0px; borde=
+r: 0px currentColor; border-image: none; height: auto; line-height: 100%; t=
+ext-decoration: none; -ms-interpolation-mode: bicubic;" alt=3D"Facebook" sr=
+c=3D"http://static.tate.org.uk/1/email-template-furniture/_.._Jun2014_socia=
+lFacebook3.png" border=3D"0" vspace=3D"0" hspace=3D"0" /></a><a name=3D"twi=
+tter_com_Tate" id=3D"twitter_com_Tate" style=3D"-ms-text-size-adjust: 100%;=
+ -webkit-text-size-adjust: 100%;" href=3D"http://links.e.tate.org.uk/ctt?kn=
+=3D27&ms=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DODAwMTkyMTA3S0&mt=
+=3D1&rt=3D0" target=3D"_blank" ><img  width=3D"42" title=3D"Twitter" align=
+=3D"top" style=3D"outline: 0px; border: 0px currentColor; border-image: non=
+e; height: auto; line-height: 100%; text-decoration: none; -ms-interpolatio=
+n-mode: bicubic;" alt=3D"Twitter" src=3D"http://static.tate.org.uk/1/email-=
+template-furniture/_.._Jun2014_socialTwitter3.png" border=3D"0" vspace=3D"0=
+" hspace=3D"0" /></a><a name=3D"www_pinterest_com_tategallery_" id=3D"www_p=
+interest_com_tategallery_" style=3D"-ms-text-size-adjust: 100%; -webkit-tex=
+t-size-adjust: 100%;" href=3D"http://links.e.tate.org.uk/ctt?kn=3D29&ms=3DN=
+Dk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DODAwMTkyMTA3S0&mt=3D1&rt=3D0" =
+target=3D"_blank" ><img  width=3D"42" title=3D"Pinterest" align=3D"top" sty=
+le=3D"outline: 0px; border: 0px currentColor; border-image: none; height: a=
+uto; line-height: 100%; text-decoration: none; -ms-interpolation-mode: bicu=
+bic;" alt=3D"Pinterest" src=3D"http://static.tate.org.uk/1/email-template-f=
+urniture/_.._Jun2014_socialPinterest3.png" border=3D"0" vspace=3D"0" hspace=
+=3D"0" /></a><a name=3D"instagram_com_tategallery" id=3D"instagram_com_tate=
+gallery" style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100=
+%;" href=3D"http://links.e.tate.org.uk/ctt?kn=3D2&ms=3DNDk5MTcyNzkS1&r=3DMj=
+MyMjgxNTYyNDMS1&b=3D0&j=3DODAwMTkyMTA3S0&mt=3D1&rt=3D0" target=3D"_blank" >=
+<img  width=3D"42" title=3D"Instagram" align=3D"top" style=3D"outline: 0px;=
+ border: 0px currentColor; border-image: none; height: auto; line-height: 1=
+00%; text-decoration: none; -ms-interpolation-mode: bicubic;" alt=3D"Instag=
+ram" src=3D"http://static.tate.org.uk/1/email-template-furniture/_.._Jun201=
+4_socialInstagram3.png" border=3D"0" vspace=3D"0" hspace=3D"0" /></a><a nam=
+e=3D"plus_google_com__Tate_posts" id=3D"plus_google_com__Tate_posts" style=
+=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" href=3D"ht=
+tp://links.e.tate.org.uk/ctt?kn=3D26&ms=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDM=
+S1&b=3D0&j=3DODAwMTkyMTA3S0&mt=3D1&rt=3D0" target=3D"_blank" ><img  width=
+=3D"42" title=3D"Google+" align=3D"top" style=3D"outline: 0px; border: 0px =
+currentColor; border-image: none; height: auto; line-height: 100%; text-dec=
+oration: none; -ms-interpolation-mode: bicubic;" alt=3D"Google+" src=3D"htt=
+p://static.tate.org.uk/1/email-template-furniture/_.._Jun2014_socialGoogle.=
+png" border=3D"0" vspace=3D"0" hspace=3D"0" /></a> <a name=3D"www_youtube_c=
+om_user_tate" id=3D"www_youtube_com_user_tate" style=3D"-ms-text-size-adjus=
+t: 100%; -webkit-text-size-adjust: 100%;" href=3D"http://links.e.tate.org.u=
+k/ctt?kn=3D32&ms=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DODAwMTkyMT=
+A3S0&mt=3D1&rt=3D0" target=3D"_blank" ><img  width=3D"42" title=3D"YouTube"=
+ align=3D"top" style=3D"outline: 0px; border: 0px currentColor; border-imag=
+e: none; height: auto; line-height: 100%; text-decoration: none; -ms-interp=
+olation-mode: bicubic;" alt=3D"Youtube" src=3D"http://static.tate.org.uk/1/=
+email-template-furniture/youtube.png" border=3D"0" vspace=3D"0" hspace=3D"0=
+" /></a></td>                                                     </tr>    =
+                                                                           =
+               </table></td>                                         </tr> =
+                                                                     </tabl=
+e>                                 <!-- // END SOCIAL MEDIA FOOTER BAR --> =
+                                <table width=3D"600" id=3D"templateFooter" =
+style=3D"width: 600px;border-collapse: collapse !important;-ms-text-size-ad=
+just: 100%;background-color: rgb(42, 42, 42);-webkit-text-size-adjust: 100%=
+;mso-table-lspace: 0;mso-table-rspace: 0;" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0">                                                          =
+                    <tr>                                             <td cl=
+ass=3D"footerContent" valign=3D"top" style=3D"background: rgb(42, 42, 42);p=
+adding: 20px;text-align: center;color: rgb(221, 221, 221);line-height: 150%=
+;font-family: Arial,Helvetica,sans-serif;font-size: 12px;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspac=
+e: 0;"></td>                                         </tr>                 =
+                        <tr>                                             <t=
+d class=3D"footerContent" valign=3D"top" style=3D"background: rgb(42, 42, 4=
+2);padding: 20px;text-align: center;color: rgb(221, 221, 221);line-height: =
+150%;font-family: Arial,Helvetica,sans-serif;font-size: 12px;-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-r=
+space: 0;"><br />                                             Ushio Shinoha=
+ra Doll Festival 1966 Hyogo Prefectural Museum of Art (Yamamura Collection)=
+&copy; Ushio and Noriko Shinohara<br />                                    =
+         Detail of the installation Subject: What Women Want, Petra Bauer, =
+shown within the exhibition A Voice of One&rsquo;s Own at Malm&ouml; Konstm=
+useum (2014). Photo: Malm&ouml; Konstmuseum<br />                          =
+                   Kiki Kogelnik Fallout c.1964 Private collection &copy; A=
+ndrew Rinkhy / Kiki Kogelnik Foundation, Vienna / New York<br />           =
+                                  A purple haze shows dark matter flanking =
+the Bullet Cluster<br />                                             X-ray:=
+ NASA/CXC/CfA/ M.Markevitch et al.; Lensing Map: NASA/STScI; ESO WFI; Magel=
+lan/U.Arizona/ D.Clowe et al.; Optical: NASA/STScI; Magellan/U.Arizona/D.Cl=
+owe et al.<br />                                             Yves Gellie Hu=
+man Version (2007), Android Ever-1, Ever-2 and Ever-3/Korea Image courtesy =
+Yves Gellie</td>                                         </tr>             =
+                            <tr>                                           =
+  <td class=3D"footerContent" valign=3D"top" style=3D"background: rgb(42, 4=
+2, 42);padding: 20px;text-align: center;color: rgb(221, 221, 221);line-heig=
+ht: 150%;font-family: Arial,Helvetica,sans-serif;font-size: 12px;-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-tab=
+le-rspace: 0;"><p style=3D"color: rgb(238, 238, 238); -ms-text-size-adjust:=
+ 100%; -webkit-text-size-adjust: 100%;">If you have any questions about thi=
+s email from Tate contact <a name=3D"cta_6662871" style=3D"color: rgb(238, =
+238, 238); font-weight: 400; text-decoration: underline; -ms-text-size-adju=
+st: 100%; -webkit-text-size-adjust: 100%;" href=3D"http://links.e.tate.org.=
+uk/ctt?kn=3D8&ms=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DODAwMTkyMT=
+A3S0&mt=3D1&rt=3D0" >Tate Visitor Information</a><br />                    =
+                         If you wish to stop receiving Tate emails please <=
+a name=3D"cta_1908554" style=3D"color: rgb(238, 238, 238); font-weight: 400=
+; text-decoration: underline; -ms-text-size-adjust: 100%; -webkit-text-size=
+-adjust: 100%;" href=3D"http://links.e.tate.org.uk/ctt?kn=3D9&ms=3DNDk5MTcy=
+NzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DODAwMTkyMTA3S0&mt=3D1&rt=3D0" >unsubs=
+cribe </a><br />                                             We would love =
+to know more about you to make our emails more relevant<br />              =
+                               <a name=3D"cta_1454201" style=3D"color: rgb(=
+238, 238, 238); font-weight: 400; text-decoration: underline; -ms-text-size=
+-adjust: 100%; -webkit-text-size-adjust: 100%;" href=3D"http://links.e.tate=
+.org.uk/ctt?kn=3D10&ms=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DODAw=
+MTkyMTA3S0&mt=3D1&rt=3D0" >please update your details</a><br />            =
+                                 <a name=3D"cta_9689891" style=3D"color: rg=
+b(238, 238, 238); font-weight: 400; text-decoration: underline; -ms-text-si=
+ze-adjust: 100%; -webkit-text-size-adjust: 100%;" href=3D"http://links.e.ta=
+te.org.uk/ctt?kn=3D16&ms=3DNDk5MTcyNzkS1&r=3DMjMyMjgxNTYyNDMS1&b=3D0&j=3DOD=
+AwMTkyMTA3S0&mt=3D1&rt=3D0" > Tate's full website private policy</a><br /> =
+                                            &copy; Copyright Tate 2014</p><=
+/td>                                         </tr>                         =
+                                             </table>                      =
+           <!-- // END FOOTER -->                                 <table wi=
+dth=3D"600" class=3D"templateTwoColumnsPlaceholder" style=3D"width: 600px;b=
+order-collapse: collapse !important;-ms-text-size-adjust: 100%;-webkit-text=
+-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">                                        =
+                                      <tr>                                 =
+            <td align=3D"center" class=3D"templateTwoColumnContainer" valig=
+n=3D"top" style=3D"width: 260px;padding-top: 30px;padding-bottom: 20px;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;m=
+so-table-rspace: 0;"><table width=3D"100%" style=3D"border-collapse: collap=
+se !important;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso=
+-table-lspace: 0;mso-table-rspace: 0;" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"20">                                                             =
+                                         <tr>                              =
+                           <td class=3D"leftColumnContent" style=3D"padding=
+: 0px 20px 0px 0px;width: 280px;text-align: left;color: rgb(80, 80, 80);lin=
+e-height: 150%;font-family: Helvetica;font-size: 14px;max-width: 280px;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;m=
+so-table-rspace: 0;padding-top: 0;padding-bottom: 0;padding-right: 20px;pad=
+ding-left: 0;"><img  title=3D"title for image" class=3D"columnImage" style=
+=3D"outline: 0px; border: 0px currentColor; border-image: none; height: aut=
+o; line-height: 100%; text-decoration: none; display: inline; -ms-interpola=
+tion-mode: bicubic; max-width: 280px;" alt=3D"alt text for image" src=3D"ht=
+tp://static.tate.org.uk/1/email-template-furniture/default-2-col-placeholde=
+r.png" /></td>                                                     </tr>   =
+                                                                           =
+                </table></td>                                             <=
+td align=3D"center" class=3D"templateTwoColumnContainer" valign=3D"top" sty=
+le=3D"width: 260px;padding-top: 30px;padding-bottom: 20px;-ms-text-size-adj=
+ust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspa=
+ce: 0;"><table width=3D"100%" style=3D"border-collapse: collapse !important=
+;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace=
+: 0;mso-table-rspace: 0;" border=3D"0" cellspacing=3D"0" cellpadding=3D"20"=
+>                                                                          =
+                            <tr>                                           =
+              <td class=3D"rightColumnContent" style=3D"padding: 0px 0px 0p=
+x 20px;width: 280px;text-align: left;color: rgb(80, 80, 80);line-height: 15=
+0%;font-family: Helvetica;font-size: 14px;max-width: 280px;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rsp=
+ace: 0;padding-top: 0;padding-bottom: 0;padding-left: 20px;padding-right: 0=
+;"><img  title=3D"title for image" class=3D"columnImage" style=3D"outline: =
+0px; border: 0px currentColor; border-image: none; height: auto; line-heigh=
+t: 100%; text-decoration: none; display: inline; -ms-interpolation-mode: bi=
+cubic; max-width: 280px;" alt=3D"alt text for image" src=3D"http://static.t=
+ate.org.uk/1/email-template-furniture/default-2-col-placeholder.png" /></td=
+>                                                     </tr>                =
+                                                                           =
+   </table></td>                                         </tr>             =
+                                                         </table></td>     =
+                        </tr>                                              =
+</table>                     <!-- templateContainer END --></td>           =
+          <!-- bodyCell END -->                 </tr>                      =
+</table></center><IMG src=3D"http://links.e.tate.org.uk/open/log/49917279/M=
+jMyMjgxNTYyNDMS1/0/ODAwMTkyMTA3S0/1/0"></body></html>
+
+
+------=_Part_81806_1262805084.1446630179492--
+

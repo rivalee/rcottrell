@@ -1,0 +1,115 @@
+head	1.7;
+access;
+symbols;
+locks
+	ggsorlym:1.7; strict;
+comment	@# @;
+
+
+1.7
+date	2014.11.06.07.30.28;	author ggsorlym;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2014.11.06.07.30.10;	author ggsorlym;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2014.11.06.07.29.52;	author ggsorlym;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2007.08.22.16.02.33;	author ggsorlym;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2007.08.22.16.02.33;	author ggsorlym;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2007.08.22.13.08.00;	author ggsorlym;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2007.08.22.13.07.59;	author ggsorlym;	state Exp;
+branches;
+next	;
+
+
+desc
+@Init by /usr/local/cpanel/cpanel
+@
+
+
+1.7
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@r:$1$XJNEx3Oj$54IfQvENfZETPyYfUmXPf0:14772::::::
+rebecca:$1$4u6k3J8b$pRMXYbmoTVCD4HyDg5YdJ/:16380::::::
+@
+
+
+1.6
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.5
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a0 1
+rebecca:$1$Oioes35i$wR6wMWxvNoeKqeTGGOnJ31:::::::
+@
+
+
+1.4
+log
+@Modified by /usr/local/cpanel/cpanel .
+@
+text
+@d1 2
+a2 1
+rebecca:$1$Y95yGYWe$wF1ajaCQeG351qgGpFqdT.:::::::
+@
+
+
+1.3
+log
+@Modified by /usr/local/cpanel/cpanel .
+@
+text
+@d1 1
+@
+
+
+1.2
+log
+@Modified by /usr/local/cpanel/cpanel .
+@
+text
+@a0 1
+rebecca:$1$XBMuPbgd$fa//0rGsx.8AwTqT/l4hW0:::::::
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d1 1
+@

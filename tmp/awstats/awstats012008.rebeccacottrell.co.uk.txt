@@ -1,0 +1,1131 @@
+AWSTATS DATA FILE 6.6 (build 1.887)
+# If you remove this file, all statistics for date 200801 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2544                
+POS_VISITOR 18655               
+POS_DAY 38406               
+POS_DOMAIN 3444                
+POS_LOGIN 3844                
+POS_ROBOT 3999                
+POS_WORMS 4453                
+POS_EMAILSENDER 4584                
+POS_EMAILRECEIVER 4727                
+POS_SESSION 39319               
+POS_SIDER 39535               
+POS_FILETYPES 4862                
+POS_OS 5087                
+POS_BROWSER 5252                
+POS_SCREENSIZE 5750                
+POS_UNKNOWNREFERER 5824                
+POS_UNKNOWNREFERERBROWSER 8123                
+POS_ORIGIN 9688                
+POS_SEREFERRALS 9835                
+POS_PAGEREFS 10046               
+POS_SEARCHWORDS 11991               
+POS_KEYWORDS 13977               
+POS_MISC 2207                
+POS_ERRORS 15420               
+POS_CLUSTER 3700                
+POS_SIDER_404 15571               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20080201000830 257 49622 35447502192
+FirstTime 20080101000005
+LastTime 20080131235915
+LastUpdate 20080201014627 257 0 256 0 0
+TotalVisits 1870                
+TotalUnique 356                 
+MonthHostsKnown 258                 
+MonthHostsUnknown 102                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 40 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 236 253 1920941 142 145 1814907
+1 123 127 985425 84 85 662285
+2 99 101 520169 53 55 399894
+3 87 95 624064 59 59 476409
+4 81 89 441332 62 64 450183
+5 94 97 479820 64 65 608675
+6 64 64 222366 57 58 373322
+7 105 111 1010522 89 91 887992
+8 132 138 866635 76 77 1114197
+9 151 167 1048262 92 92 715482
+10 186 247 1761259 107 109 1317584
+11 211 272 2296234 100 101 1393953
+12 200 234 2697534 78 82 990270
+13 206 313 8877071 74 74 510131
+14 213 293 2575145 75 75 804368
+15 208 275 4955514 101 103 723619
+16 168 188 1207322 95 110 2414355
+17 234 273 2172065 100 100 769222
+18 234 290 2685210 105 107 625339
+19 392 541 6583605 128 129 562406
+20 460 628 6519680 146 162 3347307
+21 347 524 6313983 124 130 665760
+22 496 887 12193365 165 216 1080779
+23 352 461 2851820 126 129 850961
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+us 3294 3817 35650876
+eu 1261 2164 24734499
+ca 253 255 3695057
+gb 220 355 6912445
+ip 35 36 497691
+in 10 30 198383
+it 1 3 25018
+cn 1 1 35284
+no 1 1 111
+au 1 1 175
+ve 1 2 24247
+th 1 3 35557
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+googlebot 379 6298550 20080131112644 0
+crawl 230 5100894 20080131053604 0
+slurp 203 3257053 20080131214657 0
+msnbot\-media 94 5504198 20080119164918 0
+\wbot[\/\-] 84 1751798 20080128104825 0
+ia_archiver 9 63746 20080119103934 0
+spider 9 79435 20080129160513 0
+jeeves 6 15006 20080127074536 0
+msnbot 2 468 20080131073734 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 549 2612043 0 0
+png 116 1409275 0 0
+pdf 19 2997985 0 0
+htm 5 22184 0 0
+php 565 5255746 0 0
+html 4490 36860936 0 0
+jpg 387 19673646 0 0
+js 215 2764292 0 0
+gif 322 213236 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 12
+winlong 144
+winxp 944
+win2000 31
+winnt 352
+win98 5
+linuxubuntu 3
+linux 6
+winme 1
+macosx 2418
+win95 3
+win2003 12
+Unknown 2749
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 33
+msie6.0 202
+newsfire 900
+firefox1.0.1 1
+firefox1.5.0.12 5
+firefox1.5.0.3 2
+firefox3.0 6
+firefox2.0.0.1 5
+opera 109
+msie4.01 1
+curl 2
+lynx 4
+msie5.5 16
+firefox2.0.0.6 1
+firefox1.0.4 1
+firefox1.5.0.9 6
+firefox2.0.0.11 2746
+netscape3.01 1
+konqueror 4
+mozilla 27
+firefox1.5.0.2 6
+netscape0.91 1
+firefox2.0.0.3 1
+netnewswire 162
+msie7.0 171
+netscape4.5 1
+netscape4.0 6
+msie2.0 3
+msie5.0 3
+firefox1.5 1
+sharpreader 346
+Unknown 1796
+safari 119
+camino 13
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 33
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html) 20080129234646
+Java/1.6.0_02 20080121120228
+Mozilla/5.0_(SnapPreviewBot)_Gecko/20061206_Firefox/1.5.0.9 20080125214317
+WordPress/2.3.2 20080121120209
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_2_subscribers;_feed-id=7106577720424716882) 20080131234421
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_1_subscribers;_feed-id=375448787378223560) 20080112003343
+Mozilla/0.91_Beta_(Windows) 20080110155839
+Mozilla/5.0_(compatible;_Twingly_Recon;_http://www.twingly.com/) 20080107233918
+VadixBot 20080129172941
+- 20080124201639
+Jakarta_Commons-HttpClient/3.1 20080112223902
+<b>_Runnk_RSS_finder:_http://www.runnk.com/il/law_:_Israeli_legal_:_Mishpat_:_&#x5e2;&#x5d5;&#x5e8;&#x5db;&#x5d9;_&#x5d3;&#x5d9;&#x5df;_:_&#x5d7;&#x5d5;&#x5e7;_&#x5d5;&#x5de;&#x5e9;&#x5e4;&#x5d8;_</b>_hybridwse@runnk.com 20080123120955
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20080108000115
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_3_subscribers;_feed-id=375448787378223560) 20080131231242
+Java/1.5.0_06 20080104002743
+BlogPulseLive_(support@blogpulse.com) 20080121115815
+Mozilla/5.0_(compatible;_Charlotte/1.0b;_http://www.searchme.com/support/) 20080104180907
+Mozilla/3.0_(compatible;_Indy_Library) 20080128083301
+Be-Minerva 20080121172300
+Python-urllib/1.17 20080125171815
+Lynx/2.8.5rel.1_libwww-FM/2.14_SSL-MM/1.4.1_GNUTLS/1.2.9 20080106200547
+Sphere_Scout&v4.0_-_scout_at_sphere_dot_com 20080121120546
+Java/1.5.0_11 20080131184107
+Mozilla/5.0_(compatible) 20080108012815
+NewsFire/68 20080131235915
+YahooFeedSeeker/2.0_(compatible;_Mozilla_4.0;_MSIE_5.5;_http://publisher.yahoo.com/rssguide) 20080121120013
+Mozilla/4.0 20080127193235
+BlackBerry8700/4.1.0_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/149 20080124134532
+Lynx/2.8.5rel.1_libwww-FM/2.14_SSL-MM/1.4.1_GNUTLS/1.4.4 20080111065333
+BlogsNowBot,_V_3.0_(_http://www.blogsnow.com/) 20080108043500
+Mozilla/4.0_(compatible;) 20080127113824
+Bloglines/3.1_(http://www.bloglines.com;_1_subscriber) 20080131230355
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_1_subscribers;_feed-id=7106577720424716882) 20080123224013
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 21
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html) 20080129234646
+Java/1.6.0_02 20080121120228
+WordPress/2.3.2 20080121120209
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_2_subscribers;_feed-id=7106577720424716882) 20080131234421
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_1_subscribers;_feed-id=375448787378223560) 20080112003343
+VadixBot 20080129172941
+- 20080124201639
+Jakarta_Commons-HttpClient/3.1 20080112223902
+<b>_Runnk_RSS_finder:_http://www.runnk.com/il/law_:_Israeli_legal_:_Mishpat_:_&#x5e2;&#x5d5;&#x5e8;&#x5db;&#x5d9;_&#x5d3;&#x5d9;&#x5df;_:_&#x5d7;&#x5d5;&#x5e7;_&#x5d5;&#x5de;&#x5e9;&#x5e4;&#x5d8;_</b>_hybridwse@runnk.com 20080123120955
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20080108000115
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_3_subscribers;_feed-id=375448787378223560) 20080131231242
+Java/1.5.0_06 20080104002743
+BlogPulseLive_(support@blogpulse.com) 20080121115815
+Be-Minerva 20080121172300
+Python-urllib/1.17 20080125171815
+Sphere_Scout&v4.0_-_scout_at_sphere_dot_com 20080121120546
+Java/1.5.0_11 20080131184107
+BlackBerry8700/4.1.0_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/149 20080124134532
+BlogsNowBot,_V_3.0_(_http://www.blogsnow.com/) 20080108043500
+Bloglines/3.1_(http://www.bloglines.com;_1_subscriber) 20080131230355
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_1_subscribers;_feed-id=7106577720424716882) 20080123224013
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 4034 4083
+From1 0 0
+From2 104 108
+From3 84 86
+From4 857 2391
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+google 101 102
+google_cache 0 3
+aol 1 1
+google_image 1 1
+yahoo 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 34
+http://rdg.facebook.com/profile.php 39 39
+http://nbandw.blogspot.com 4 4
+http://duende.livejournal.com 3 4
+http://www.gavinwhenman.com 3 3
+http://www.nixonmcinnes.co.uk/2007/12/16/thoughts-on-the-beta-of-the-bbcs-site-redesign/ 3 3
+http://extremetracking.com/open 2 2
+http://jimyojimbo.livejournal.com/friends 2 2
+http://www.bloglines.com/myblogs_display 2 3
+http://www.studiolift.com/mint/ 1 1
+http://jocastajackal.livejournal.com/friends 1 1
+http://nerdanelthenerd.livejournal.com/friends 1 1
+http://www.gavinwhenman.com/2008/01/22/is-first-past-the-post-legal/ 1 1
+http://caged-liberty.livejournal.com/friends/ 1 1
+http://www.behance.net/littleparables 1 1
+http://www.creativeindex.com 1 1
+http://blog.webreakstuff.com/2007/12/startup-names-still-suck/ 1 1
+http://emerge.livejournal.com/friends 1 1
+http://www.nixonmcinnes.co.uk/wp-admin/ 1 1
+http://technorati.com/blogs/www.rebeccacottrell.co.uk/blog 1 1
+http://www.rhettsmith.com/wp-trackback.php 1 1
+http://blog.webreakstuff.com/wp-admin/ 1 1
+http://www.gavinwhenman.com/2008/01/09/camerons-welfare-to-work-proposals-explained/ 1 1
+http://www.gavinwhenman.com/2008/01/02/nick-cleggs-nickname/#comment-437 1 1
+http://www.tomhume.org/2007/11/links-for-20-10.html 1 1
+http://www.mundolanguages.com/wp-trackback.php 1 1
+http://kitschy.livejournal.com/friends/ 1 1
+http://www.realpolitics.co.uk/wp-trackback.php 1 1
+http://www.nixonmcinnes.co.uk/wp-admin/index-extra.php 1 1
+http://misworded.livejournal.com/friends/users 1 1
+http://purplesquirrel.livejournal.com/friends 1 1
+http://beeswing.livejournal.com/friends/ 1 1
+http://www.libdemvoice.org/campaign-for-gender-balance-awards-best-nonlib-dem-blog-1979.html 1 1
+http://anniejs.livejournal.com/friends/3+friends 1 1
+http://www.mikeindustries.com/blog/archive/2000/02/elementk-interview 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 53
+rebecca+cottrell 45
+terry+dowling+illustrator 3
+terry+dowling+egotist 2
+act+ii+scene+14+doas 1
+editorial+design+graphic+designer 1
+graphic+designer+idea+paper 1
+editorial+graphic+design 1
+graphic+designers+biography 1
+david+bomberg+poems+and+drawings+from+the+first+world+war 1
+what+if+art+didnt+evoke+emotion 1
+the+growth+of+typography 1
+editorial+design+what+the+graphic+design+does 1
+supermarket+pictograms 1
+%e2%80%98i+didn%e2%80%99t+get+into+design+to+be+an+artist.+to+me+an+artist+creates+things+to+evoke+emotion.+being+a+designer+goes+a+step+further+than+that+not+only+trying+to+evoke+emotion+but+trying+to+make+a+reaction.+it+is+very+objective-driven+and+that%e2%80%99s+what+makes+it+interesting%e2%80%99 1
+graphic+designers+views+beliefs 1
+paul+nash+we+are+making+a+new+world 1
+paul+nash+wood+on+the+downs 1
+paul+fripp+nash 1
+rebecca+cotterall+reading+university 1
+nick+bell+illustration 1
+rebeccacottrell 1
+shog+off 1
+reading+university+illustration 1
+stutter+nim 1
+graphic+design+editorial 1
+indesit 1
+how+does+an+artist+use+convergence+lines+in+their+art%3f 1
+reading+uni+graphic+design 1
+kindle+typography 1
+how+artist+evoke+emotions+through+their+art 1
+empathy+virus 1
+page+turn+graphic 1
+how+to+evoke+reactions+through+illustration 1
+lithographer+william+pears 1
+terry+dowling+illustration 1
+convergence+visual+art+technology 1
+what+does+only+connect+mean-+e.m.+forster 1
+paul+nash+how+he+developed+his+style 1
+freelance+vs+full-time 1
+realistic+painting+from+1850+to+1915 1
+shell-mex+and+bp 1
+design+observer+eye+magazine 1
+paul+nash+war+paintings 1
+web+2.0+logos 1
+link+http+//www.nixonmcinnes.co.uk/ 1
+suitable+graphic+design+name 1
+paul+nash+watercolours 1
+why+do+artists+use+convergence+lines 1
+egotist+designer 1
+design+that+evokes+emotion 1
+rebecca+cottrell+%21 1
+typography+technology 1
+david+bomberg+family 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 155
+rebecca 47
+cottrell 46
+design 10
+graphic 10
+to 7
+nash 6
+dowling 6
+terry 6
+paul 6
+evoke 5
+the 4
+illustration 4
+a 4
+what 4
+how 4
+designer 4
+editorial 4
+emotion 3
+egotist 3
+art 3
+convergence 3
+typography 3
+reading 3
+and 3
+an 3
+downs 1
+1850 1
+if 1
+makes 1
+stutter 1
+name 1
+forster 1
+supermarket 1
+technology 2
+cotterall 1
+but 1
+pictograms 1
+doas 1
+of 1
+is 1
+being 1
+mean- 1
+views 1
+fripp 1
+objective-driven 1
+paper 1
+act 1
+it 2
+freelance 1
+lithographer 1
+artist. 1
+off 1
+nick 1
+turn 1
+uni 1
+http 1
+in 1
+shell-mex 1
+visual 1
+very 1
+only 2
+interesting%e2%80%99 1
+me 1
+rebeccacottrell 1
+14 1
+e.m. 1
+ii 1
+realistic 1
+observer 1
+war 2
+growth 1
+painting 1
+his 1
+get 1
+magazine 1
+emotions 1
+make 1
+that%e2%80%99s 1
+through 2
+eye 1
+why 1
+creates 1
+empathy 1
+that 2
+not 1
+%21 1
+on 1
+artists 1
+beliefs 1
+further 1
+kindle 1
+william 1
+developed 1
+//www.nixonmcinnes.co.uk/ 1
+family 1
+wood 1
+goes 1
+do 1
+drawings 1
+into 1
+we 1
+web 1
+making 1
+from 2
+style 1
+evokes 1
+designers 2
+reaction. 1
+things 1
+david 2
+page 1
+shog 1
+reactions 1
+full-time 1
+step 1
+logos 1
+does 3
+suitable 1
+1915 1
+new 1
+trying 2
+emotion. 1
+paintings 1
+bell 1
+indesit 1
+be 1
+their 2
+didnt 1
+idea 1
+illustrator 3
+2.0 1
+bp 1
+bomberg 2
+world 2
+are 1
+lines 2
+%e2%80%98i 1
+use 2
+nim 1
+biography 1
+connect 1
+link 1
+university 2
+first 1
+art%3f 1
+he 1
+scene 1
+than 1
+didn%e2%80%99t 1
+poems 1
+virus 1
+artist 3
+watercolours 1
+vs 1
+pears 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 6 0
+302 284 7232
+206 22 1222364
+500 2 1240
+301 618 41368
+404 470 216048
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 53
+/blog/2007/12/24/about-this-blog-updated/#comment-15 1 http://www.rebeccacottrell.co.uk/blog/2007/12/24/about-this-blog-updated/#comment-15
+/robots.txt 343 -
+/blog/2007/12/08/something-i-ffffound/ 1 -
+/blog/2007/12/05/ffffound-and-how-refreshing-un-design-can-be/feed/ 1 -
+/blog/2007/11/23/organic-virtual-communities/ 2 -
+/blog/wp-trackback.php/wp-trackback.php 1 -
+/blog/category/web/ 1 -
+/blog/2007/11/23/organic-virtual-communities/trackback/ 1 -
+/blog/2007/11/23/ 1 -
+/blog/wp-content/uploads/2007/12/des.jpg 4 http://www.rebeccacottrell.co.uk/blog/wp-admin/post.php
+/typography 1 -
+/blog/wp-content/themes/default/style.css 1 http://www.rebeccacottrell.co.uk/wordpress.2/
+/blog/ 1 -
+/portfolio/index.html 2 -
+/blog/wp-content/uploads/2007/12/eye_rhymes.jpg 40 http://www.rebeccacottrell.co.uk/blog/wp-admin/post.php
+/blog/2007/11/22/the-impersonality-of-graphic-design/trackback/ 1 -
+/blog/2007/12/20/graphic-design-writing/ 3 -
+/blog/category/writing/ 1 -
+/blog/wp-content/uploads/2007/12/78e16cefdb.jpg 4 http://www.rebeccacottrell.co.uk/blog/wp-admin/post.php
+/wordpress 1 -
+/blog/about/ 2 http://www.rebeccacottrell.co.uk/blog/
+/blog/2007/11/25/amazon-kindle/ 1 -
+/blog 5 -
+/blog/wp-content/themes/default/images/kubrickbg-ltr.jpg 2 http://www.rebeccacottrell.co.uk/wordpress.2/
+/blog/feed/atom/ 2 -
+/blog/print.css 1 http://www.rebeccacottrell.co.uk/blog/
+/blog/category/convergence/ 1 -
+/blog/2007/11/26/website-fine-art/ 1 -
+/blog/category/uncategorized/ 4 -
+/blog/2007/11/30/blogs/ 1 -
+/blog/2007/11/22/the-impersonality-of-graphic-design/ 1 -
+/blog/feed/ 1 -
+/blog/category/working-process/ 1 -
+/blog/2007/12/08/freelance-vs-full-time/trackback/ 1 -
+/blog/category/vcommunities/ 4 -
+/blog/2007/12/24/eye-rhymes-sylvia-plaths-art-of-the-visual/ 2 -
+/blog/2007/12/05/ffffound-and-how-refreshing-un-design-can-be/trackback/ 2 -
+/blog/2007/12/08/freelance-vs-full-time/feed/ 1 -
+/images/buttons/roll_port.png 2 http://rebeccacottrell.co.uk/portfolio/catalogues/
+/blog/2007/12/05/ffffound-and-how-refreshing-un-design-can-be/ 2 -
+/blog/wp-login.php 2 -
+/blog/page/2/ 3 -
+/blog/category/ 1 -
+/images/images/fish1.jpg 1 http://www.rebeccacottrell.co.uk/images/
+/blog/2007/11/30/blogs/feed/ 1 -
+/blog/2007/12/20/graphic-design-writing/trackback/ 1 -
+/blog/2007/11/23/organic-virtual-communities/feed/ 1 -
+/blog/2007/11/25/amazon-kindle/trackback/ 3 -
+/12/24/about-this-blog-updated/#comment-15 1 http://www.rebeccacottrell.co.uk/12/24/about-this-blog-updated/#comment-15
+/blog/2007/12/08/freelance-vs-full-time/ 1 -
+/blog/2007/12/24/about-this-blog-updated/ 5 http://www.rebeccacottrell.co.uk/blog/
+/2007/12/24/about-this-blog-updated/#comment-15 1 http://www.rebeccacottrell.co.uk/2007/12/24/about-this-blog-updated/#comment-15
+/blog/2007/11/30/blogs/trackback/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 360
+72.14.199.115 794 794 2471221 20080131234421
+cpc1-rdng11-0-0-cust51.winn.cable.ntl.com 636 638 233935 20080131235915
+crawler.bloglines.com 478 478 387835 20080131230355
+host81-154-63-153.range81-154.btcentralplus.com 457 1002 8329204 20080110205425
+host81-157-214-11.range81-157.btcentralplus.com 371 607 7683773 20080126091615
+82-69-21-156.dsl.in-addr.zen.co.uk 346 348 637142 20080131230842
+host81-156-75-121.range81-156.btcentralplus.com 258 261 106738 20080131171626
+142.166.3.124 251 251 3631147 20080131184107
+209.85.238.10 158 158 346939 20080122221932
+90.210.96.183 112 201 2318482 20080121231833
+cpc3-rdng8-0-0-cust56.winn.cable.ntl.com 75 80 1701133 20080131222238
+cactus.hosted.dataline.co.uk 48 125 3218518 20080131143250
+88-97-216-124.dsl.zen.co.uk 46 52 293733 20080131164038
+mail.dfsv47.com 40 64 411788 20080121120255
+217.171.129.74 34 34 278479 20080131234035
+cpc2-brig11-0-0-cust674.brig.cable.ntl.com 32 32 720041 20080102093745
+cpc2-brig7-0-0-cust61.brig.cable.ntl.com 25 25 28864 20080128214955
+host86-148-142-148.range86-148.btcentralplus.com 24 63 583298 20080127151137
+user-514f7cbe.l4.c3.dsl.pol.co.uk 24 25 532520 20080106121434
+217.171.129.72 22 22 264881 20080129233156
+host81-151-175-236.range81-151.btcentralplus.com 20 20 0 20080119073810
+217.171.129.71 19 23 262966 20080131205024
+5acfa9cb.bb.sky.com 18 19 192838 20080121004646
+217.171.129.68 17 17 196378 20080128194512
+77-103-198-81.cable.ubr16.edin.blueyonder.co.uk 17 53 2712037 20080110134249
+5ac8e9f3.bb.sky.com 4 4 113932 20080101153407
+85.133.29.246 1 2 15344 20080117170440
+uahammad.gotadsl.co.uk 3 9 141554 20080104121402
+e176024082.adsl.alicedsl.de 1 7 84995 20080101201830
+90.210.60.204 11 12 52158 20080122151659
+customer11330.pool1.unallocated-106-0.orangehomedsl.co.uk 2 3 50018 20080106181814
+customer10292.pool1.acton-gln1070-bas0001.orangehomedsl.co.uk 1 1 29929 20080106224840
+85.12.46.89 1 1 34616 20080116095002
+82-36-64-96.cable.ubr01.harb.blueyonder.co.uk 11 17 405237 20080131002321
+host81-129-129-228.range81-129.btcentralplus.com 2 3 47097 20080102130712
+bas1-toronto09-1279475607.dsl.bell.ca 1 2 20318 20080126030924
+cpc2-clif5-0-0-cust516.nott.cable.ntl.com 1 2 36087 20080107220553
+201-67-76-41.cbace701.e.brasiltelecom.net.br 1 1 34616 20080110040050
+customer10155.pool1.greenwich-gln5000-bas0001.orangehomedsl.co.uk 1 2 37936 20080103200836
+abts-mum-dynamic-154.3.169.122.airtelbroadband.in 4 5 86244 20080120151101
+static-208-80-193-41.as13448.com 1 1 234 20080104001741
+customer2877.pool1.acton-gln1070-bas0001.orangehomedsl.co.uk 2 4 78256 20080111003207
+cpe0011d8f4a7fb-cm00137186cc84.cpe.net.cable.rogers.com 2 4 44773 20080122201216
+ip-81-1-81-37.cust.homechoice.net 1 2 20755 20080106025805
+host-87-74-95-189.bulldogdsl.com 1 2 23086 20080117104139
+85-210-147-42.dsl.pipex.com 7 8 152285 20080118200655
+c-68-58-54-43.hsd1.in.comcast.net 2 3 37218 20080108023527
+66.249.14.120 1 1 111 20080119144050
+cpc1-warw5-0-0-cust638.sol2.cable.ntl.com 1 2 41931 20080118002704
+88.243.99.167 2 4 82864 20080118221602
+135.136.203.205.in-addr.arpa.net 1 2 20938 20080108164657
+79-66-8-82.dynamic.dsl.as9105.com 7 10 156440 20080107203514
+81-178-91-147.dsl.pipex.com 1 3 44811 20080121124359
+82.99.30.30 2 2 30986 20080112093303
+82.99.30.43 1 1 23886 20080112152227
+212.183.134.210 6 9 173728 20080127193235
+web-test.farn-ct.ac.uk.76.80.194.in-addr.arpa 2 3 34259 20080129100546
+87-196-75-46.net.novis.pt 6 7 110180 20080103162237
+host81-156-153-91.range81-156.btcentralplus.com 2 8 134247 20080125140710
+ec2-67-202-20-163.compute-1.amazonaws.com 1 1 29826 20080109194052
+87-194-44-83.bethere.co.uk 1 2 20419 20080103211614
+ws1.wefeelfine.org 2 2 28633 20080102223740
+76.29.196.49 1 2 23778 20080119194347
+38.98.19.68 2 4 79505 20080125214317
+wilshire.dreamhost.com 2 2 34794 20080123120955
+r74-194-41-217.brnscmta01.basnmo.lr.dh.suddenlink.net 1 2 20224 20080129000851
+host86-158-130-100.range86-158.btcentralplus.com 1 2 42574 20080110184548
+64.41.145.172 2 2 71392 20080121122147
+82-68-181-246.dsl.in-addr.zen.co.uk 1 2 22709 20080110190125
+ec2-67-202-34-117.compute-1.amazonaws.com 1 1 38941 20080121120228
+112.32.broadband10.iol.cz 1 2 22638 20080108160155
+64.65.169.98 2 3 34091 20080121214418
+ev1s-209-62-29-61.ev1servers.net 2 2 468 20080104200244
+60-234-172-58.bitstream.orcon.net.nz 1 2 20150 20080127044648
+202.75.49.156 1 1 175 20080102023647
+217.171.129.73 1 1 13803 20080125105517
+85.255.120.58 4 4 13557 20080129190643
+78.147.105.12 2 3 54955 20080109173815
+htproxy2.ops.re4.yahoo.net 2 2 72268 20080121120013
+cpe-76-177-138-195.natcky.res.rr.com 1 2 20789 20080103184150
+82-69-91-145.dsl.in-addr.zen.co.uk 6 8 164896 20080121145110
+194.83.191.3 1 3 24507 20080122113013
+vau75-7-82-234-249-80.fbx.proxad.net 1 2 28264 20080121131206
+82.99.30.29 1 1 17912 20080101155118
+78-32-64-8.adsl24.co.uk 2 4 57002 20080121173300
+host86-156-169-137.range86-156.btcentralplus.com 6 13 226464 20080107222807
+htproxy3.ops.re4.yahoo.net 8 8 260467 20080121115138
+host86-162-119-156.range86-162.btcentralplus.com 1 2 38337 20080103204752
+78.164.142.209 1 3 44462 20080123213126
+static-208-80-193-32.as13448.com 1 1 234 20080120201422
+static-208-80-193-49.as13448.com 1 1 234 20080108031943
+81-178-86-77.dsl.pipex.com 2 4 44404 20080128094507
+82.99.30.53 1 1 34616 20080108223431
+75-165-240-87.slkc.qwest.net 2 2 69232 20080111065333
+72.11.155.179 1 1 9157 20080115113515
+ns.km30229.keymachine.de 1 1 234 20080118154016
+htproxy1.ops.re4.yahoo.net 1 1 31755 20080102221610
+85-210-130-119.dsl.pipex.com 1 3 43785 20080129204213
+140084-web1.behance.com 1 1 234 20080114023140
+66.249.11.173 1 1 14296 20080119144049
+78.148.250.149 1 3 43317 20080126093046
+97-87-87-18.static.stls.mo.charter.com 1 2 30697 20080118195251
+ec2-67-202-11-151.compute-1.amazonaws.com 1 1 31776 20080103174541
+212.183.134.66 2 4 82008 20080122232151
+64.27.29.45 1 1 265 20080101003130
+70-11-18-184.area7.spcsdns.net 1 1 14901 20080124152408
+72.14.193.131 1 1 16535 20080109092618
+host86-133-166-163.range86-133.btcentralplus.com 4 5 71835 20080109112113
+host86-157-53-166.range86-157.btcentralplus.com 2 4 83730 20080112160507
+70.58.102.140 2 2 56276 20080106200547
+out031.sctm.tfbnw.net 1 1 16126 20080108000115
+89-149-235-23.internetserviceteam.com 2 2 201 20080115193536
+87-194-73-64.bethere.co.uk 2 3 34528 20080131221800
+host86-133-247-174.range86-133.btcentralplus.com 5 6 108615 20080106191157
+static-208-80-193-31.as13448.com 1 1 234 20080129084612
+194.54.90.170 1 1 111 20080114004127
+209.249.86.210 1 1 30601 20080104180907
+static-208-80-193-40.as13448.com 1 1 234 20080102220550
+panda.parkanimals.com 1 1 13855 20080102220629
+a.m.mediacentre.org 1 2 22695 20080114113744
+ool-4577e984.dyn.optonline.net 1 3 44314 20080121172713
+host81-129-156-227.range81-129.btcentralplus.com 1 2 20087 20080131120220
+82.99.30.56 1 1 246 20080101125030
+ac8d1a39.ipt.aol.com 1 2 23516 20080120124528
+host86-143-121-138.range86-143.btcentralplus.com 2 4 224022 20080130071516
+freyalise.ephaone.org 2 2 39056 20080120215855
+82.99.30.67 2 2 31049 20080113004544
+h-208-82.a163.cust.bahnhof.se 2 2 45187 20080107233918
+38.98.19.66 0 2 9101 
+cpc1-brig7-0-0-cust762.brig.cable.ntl.com 3 4 66138 20080106233112
+customer12429.pool1.unallocated-106-0.orangehomedsl.co.uk 2 4 60570 20080126142414
+host86-148-16-223.range86-148.btcentralplus.com 1 2 26817 20080112110413
+85-18-246-10.ip.fastwebnet.it 1 3 24843 20080122081112
+200.75.122.48 1 2 24247 20080112034313
+static-208-80-193-45.as13448.com 1 1 234 20080116132438
+host81-129-97-164.range81-129.btcentralplus.com 3 5 75904 20080123225017
+d36-173-33.home1.cgocable.net 1 1 52029 20080119220839
+cpc2-oxfd8-0-0-cust281.oxfd.cable.ntl.com 9 10 219534 20080111210047
+82.99.30.15 1 1 14079 20080114105302
+spc1-brig2-0-0-cust269.asfd.broadband.ntl.com 1 2 22456 20080110005908
+82.152.202.241 1 3 44999 20080121131754
+c-71-197-212-105.hsd1.or.comcast.net 1 2 20833 20080104194410
+user-5af2215e.tcl110.dsl.pol.co.uk 1 1 234 20080101215125
+cpc1-broo2-0-0-cust183.renf.cable.ntl.com 6 8 169742 20080121194146
+89.240.239.105 1 3 45147 20080122231217
+customer9724.pool1.unallocated-110-192.orangehomedsl.co.uk 6 11 126994 20080104154659
+host86-137-105-29.range86-137.btcentralplus.com 1 3 45034 20080122123650
+82.152.173.231 1 2 42652 20080112203315
+82.99.30.62 2 2 43045 20080113183544
+88-97-216-122.dsl.zen.co.uk 3 3 0 20080130132715
+client-82-26-24-66.winn.adsl.virgin.net 1 1 302548 20080102143625
+82.99.30.7 1 1 23202 20080112153216
+cc350688-a.groni1.gr.home.nl 3 6 92149 20080121222131
+c-67-170-80-133.hsd1.wa.comcast.net 1 1 2020 20080114204402
+82.99.30.66 1 1 13836 20080109220529
+pool-71-101-25-202.tampfl.dsl-w.verizon.net 1 2 22730 20080131221857
+host86-132-130-89.range86-132.btcentralplus.com 1 3 44017 20080128090241
+194.72.162.199 2 2 605096 20080116121513
+221.12.10.245 2 2 44482 20080110081028
+72.11.147.128 1 1 15371 20080115140423
+icldhcp03.chem.ox.ac.uk 3 5 97267 20080130152328
+82-44-196-21.cable.ubr07.haye.blueyonder.co.uk 1 2 41471 20080111222124
+82.99.30.10 3 3 45392 20080115015032
+82.99.30.34 2 2 30945 20080112104508
+dyn1206-188.wlan.ic.ac.uk 3 5 93674 20080117132214
+host81-159-129-199.range81-159.btcentralplus.com 1 1 57588 20080103110509
+ec2-67-202-38-183.compute-1.amazonaws.com 1 1 33423 20080101120906
+host86-138-74-140.range86-138.btcentralplus.com 1 1 46422 20080110104228
+email.cvsd.org 1 1 137888 20080118194442
+port-245.xxx.th.newnet.co.uk 2 3 54794 20080112223738
+port-131.northbrookcollege.th.newnet.co.uk 1 2 24305 20080116124830
+user-5443faa8.lns1-c9.dsl.pol.co.uk 3 5 73463 20080124190437
+79-73-252-1.dynamic.dsl.as9105.com 1 1 0 20080116124723
+c-69-181-32-255.hsd1.ca.comcast.net 5 6 126643 20080121051931
+cache-mtc-ab01.proxy.aol.com 2 3 74246 20080121124312
+ip-208-109-236-17.ip.secureserver.net 1 1 234 20080122030230
+cpc2-gors1-0-0-cust939.swan.cable.ntl.com 1 3 45138 20080121173157
+customer6111.pool1.unallocated-106-0.orangehomedsl.co.uk 2 4 56700 20080123181634
+host86-156-244-188.range86-156.btcentralplus.com 7 9 179445 20080129135125
+sparks.dsl.visi.com 1 3 44032 20080121163657
+lan-202-144-42-167.maa.sify.net 8 24 149179 20080125105454
+cpc1-rdng8-0-0-cust896.winn.cable.ntl.com 1 2 41702 20080110164624
+217.171.129.70 3 3 52108 20080127150338
+38.99.101.236 1 1 34937 20080131191249
+livebot-65-55-165-95.search.live.com 2 3 40214 20080131073912
+cpc1-brig3-0-0-cust550.brig.cable.ntl.com 4 9 95364 20080124200735
+cpc4-brig7-0-0-cust845.brig.cable.ntl.com 7 8 45224 20080103131638
+customer3209.pool1.unallocated-110-128.orangehomedsl.co.uk 2 3 55388 20080119214038
+adsl-074-245-225-082.sip.bct.bellsouth.net 1 2 23328 20080120214924
+82.99.30.55 1 1 234 20080113130720
+host81-155-82-102.range81-155.btcentralplus.com 1 1 0 20080120165925
+ec2-67-202-29-26.compute-1.amazonaws.com 1 1 30412 20080128221755
+81-179-116-22.dsl.pipex.com 5 9 106825 20080127141346
+82.99.30.58 1 1 234 20080110194837
+satellite04.proximic.com 1 1 14256 20080102223406
+82.99.30.24 2 2 43988 20080113184356
+customer7287.pool1.acton-gln1070-bas0001.orangehomedsl.co.uk 1 2 36160 20080105004829
+no-reverse-defined.somerset.ac.uk 2 4 43128 20080128141427
+host86-133-163-90.range86-133.btcentralplus.com 1 1 29834 20080114090039
+cpc2-bexl3-0-0-cust476.bmly.cable.ntl.com 5 6 152481 20080116165513
+82.99.30.63 1 1 13653 20080101032457
+cpc2-brig4-0-0-cust496.brig.cable.ntl.com 4 6 106757 20080121224037
+82.99.30.71 1 1 26146 20080101144032
+ldninpx01.dowjones.com 2 4 42268 20080116231246
+colo-69-31-80-66.pilosoft.com 8 8 1023 20080125171815
+cpc8-nthc3-0-0-cust599.nrth.cable.ntl.com 1 1 52029 20080114195247
+static-208-80-193-52.as13448.com 2 2 468 20080128001729
+25.127.189.72.cfl.res.rr.com 1 1 33718 20080101064041
+78-86-107-137.zone2.bethere.co.uk 14 28 2230413 20080116210119
+62.172.143.205 1 3 45418 20080123211730
+host86-140-81-202.range86-140.btcentralplus.com 1 2 41407 20080108173815
+203-144-143-10.static.asianet.co.th 1 3 35557 20080131112732
+cache-dtc-ad10.proxy.aol.com 1 1 302548 20080125015645
+ec2-67-202-4-131.z-1.compute-1.amazonaws.com 6 6 176014 20080120071345
+satellite02.proximic.com 1 1 16409 20080108012815
+rrcs-67-78-34-170.sw.biz.rr.com 2 2 69724 20080129172941
+85-210-159-59.dsl.pipex.com 1 3 44017 20080129095312
+82-44-78-7.cable.ubr07.nmal.blueyonder.co.uk 1 2 22513 20080120144324
+217.171.129.69 10 11 131195 20080122220530
+cache-mtc-af13.proxy.aol.com 0 1 6187 
+82.99.30.21 1 1 34616 20080112014834
+61.134.43.213 1 1 35284 20080108193828
+82-163-112-165.adsl.fast.co.uk 1 2 35412 20080107153909
+124.28.26.255 2 18 1336829 20080104192149
+mctnnbsa24w-142167039101.pppoe-dynamic.nb.aliant.net 4 8 155087 20080110030736
+82.99.30.45 1 1 234 20080103110855
+79-73-141-219.dynamic.dsl.as9105.com 1 1 0 20080114130157
+64.41.145.100 9 9 168356 20080108022602
+82-148-54-179.fast.net.uk 1 1 29582 20080113131244
+66.180.82.83 1 1 14433 20080106025806
+mcb0d132164.demon.co.uk 2 3 42648 20080115101506
+71-219-194-8.clsp.qwest.net 0 1 71067 
+87-194-237-209.bethere.co.uk 4 5 77856 20080104232502
+host86-157-45-168.range86-157.btcentralplus.com 2 4 56583 20080121183233
+85-210-144-148.dsl.pipex.com 16 35 474487 20080125221542
+h1026387.serverkompetenz.net 3 4 38432 20080103165726
+85-210-162-143.dsl.pipex.com 2 4 44124 20080127202932
+87-127-125-135.no-dns-yet.enta.net 1 1 52029 20080125162409
+www.nuitblanche.lu 2 2 32587 20080112223902
+88-97-33-199.dsl.zen.co.uk 3 5 79611 20080125195849
+212.4.7.178 1 3 25018 20080122081448
+bham-airport-gw.uk.insnet.net 1 3 26196 20080128110217
+cnf56-233.york.ac.uk 1 2 42491 20080116205853
+client-86-31-32-111.leed.adsl.virgin.net 1 3 36346 20080127095746
+static-208-80-193-30.as13448.com 1 1 234 20080112082743
+ec2-67-202-50-197.compute-1.amazonaws.com 1 1 2020 20080119000759
+host86-157-51-226.range86-157.btcentralplus.com 7 15 1093833 20080115125642
+217.171.129.75 6 6 64800 20080130225152
+82.99.30.57 2 2 36776 20080114110446
+82.99.30.28 2 2 28621 20080115014650
+82.99.30.8 1 1 16525 20080111092312
+189.17.180.146 2 2 59781 20080107225737
+c-69-251-250-148.hsd1.md.comcast.net 1 3 44418 20080121172802
+166-82-39-136.quickclick.ctc.net 1 1 14956 20080124201639
+host217-34-54-84.in-addr.btopenworld.com 1 3 36810 20080122162926
+82.99.30.41 1 1 14079 20080110200049
+mailgate.rcwlitagency.co.uk 3 4 65043 20080107123214
+host86-138-67-93.range86-138.btcentralplus.com 9 10 137292 20080109135333
+82.99.30.31 1 1 14252 20080112154832
+static-208-80-193-36.as13448.com 1 1 234 20080115072313
+77-103-95-36.cable.ubr10.dals.blueyonder.co.uk 1 3 45348 20080122145146
+adsl-75-20-213-121.dsl.peoril.sbcglobal.net 1 3 44329 20080121192126
+81-179-124-124.dsl.pipex.com 6 12 148534 20080126211619
+cpc1-pool1-0-0-cust751.sotn.cable.ntl.com 1 2 24194 20080116134523
+79-66-49-167.dynamic.dsl.as9105.com 2 3 41858 20080110223906
+host86-148-142-4.range86-148.btcentralplus.com 4 7 122521 20080121161515
+host86-129-82-107.range86-129.btcentralplus.com 3 5 96970 20080118011154
+mail.getdriven.com 1 3 44392 20080120211442
+sphere.com 12 12 288697 20080121120546
+82.99.30.14 3 3 58894 20080114105732
+newcustomer.nixmc.com 1 1 15563 20080107232526
+ip-216-17-131-145.rev.frii.com 1 1 34616 20080108223328
+82.99.30.35 1 1 12590 20080111091655
+72.14.195.38 1 1 28570 20080120212012
+host86-128-84-245.range86-128.btcentralplus.com 1 1 302548 20080128105740
+voyager2.rbinet.co.uk 1 5 89911 20080122172408
+72.11.153.9 1 1 147 20080115085431
+82.152.209.73 4 8 87485 20080124190350
+64.41.145.102 3 3 73755 20080104035757
+58.22.132.231 2 2 14408 20080104034741
+89.122.213.128 1 1 29104 20080106115735
+82.99.30.60 1 1 12954 20080110055941
+82.99.30.3 2 2 33784 20080110061201
+adsl-71-135-38-144.dsl.pltn13.pacbell.net 2 6 87605 20080127105648
+host1.lioha.com 1 1 8372 20080128083301
+bas9-toronto63-1088754704.dsl.bell.ca 1 2 26209 20080117045237
+82.99.30.44 1 1 13969 20080109075231
+241-242.aknet.ru 1 6 49245 20080101233751
+host-14.azamedia.com 1 1 234 20080115205849
+host86-162-117-210.range86-162.btcentralplus.com 1 2 42017 20080110234343
+82.124.in-addr.arpa.tm.net.my 1 2 27032 20080131124406
+85-210-155-229.dsl.pipex.com 6 16 218759 20080131182120
+81-178-219-173.dsl.pipex.com 1 2 41841 20080112010025
+p4fceeff6.dip.t-dialin.net 1 1 234 20080129091015
+59.95.222.111 2 3 41037 20080119111357
+216.114.15.154 1 2 35133 20080107173633
+85-210-131-226.dsl.pipex.com 3 7 88483 20080128205702
+cpc3-oxfd3-0-0-cust67.oxfd.cable.ntl.com 1 3 45007 20080121184725
+host86-136-104-206.range86-136.btcentralplus.com 1 1 302548 20080113130235
+c-67-180-180-195.hsd1.ca.comcast.net 2 3 54122 20080108235055
+221.131.43.234 2 2 16639 20080128002539
+lan-202-144-31-206.maa.sify.net 2 6 49204 20080128032710
+host-84-9-44-96.bulldogdsl.com 1 2 41799 20080120214445
+212.42.172.241 1 5 30933 20080123132634
+81-178-78-158.dsl.pipex.com 3 7 121857 20080125003701
+ec2-67-202-34-161.compute-1.amazonaws.com 1 1 27238 20080104004921
+5ac1af5c.bb.sky.com 0 1 2914 
+88-104-204-188.dynamic.dsl.as9105.com 1 2 41870 20080115193730
+66.9.35.195 3 3 52029 20080109161529
+81-178-73-107.dsl.pipex.com 4 12 160775 20080123211656
+forge.he.net 1 1 33858 20080130180002
+72.34.230.108 4 4 123501 20080108043500
+84-43-34-244.ppp.onetel.net.uk 1 1 29692 20080120184450
+ip-216-17-131-148.rev.frii.com 1 1 14252 20080109043212
+79-66-11-23.dynamic.dsl.as9105.com 3 5 73746 20080121175408
+ns.km23108-04.keymachine.de 3 3 103848 20080117044332
+customer3624.pool1.unallocated-106-0.orangehomedsl.co.uk 4 5 99413 20080103170649
+dsl78-143-204-155.in-addr.fast.co.uk 10 13 259694 20080131220626
+ip-67-205-68-203.static.privatedns.com 1 1 33758 20080127044521
+5ac1afd7.bb.sky.com 1 2 41855 20080113153514
+cpc3-mfld10-0-0-cust883.nott.cable.ntl.com 1 3 44511 20080122182123
+host-41-207-1-117.afnet.net 1 1 234 20080113122428
+bd2050f2.poa.virtua.com.br 1 1 35368 20080109233258
+host81-153-199-27.range81-153.btcentralplus.com 1 1 0 20080112212608
+82.99.30.54 1 1 13585 20080101102738
+100.70.218.87.dynamic.jazztel.es 1 1 34616 20080110151051
+82.99.30.27 1 1 17216 20080110195018
+221.200.92.143 1 1 35304 20080112105110
+80-42-153-178.dynamic.dsl.as9105.com 1 2 37657 20080103200941
+pool-72-75-54-136.washdc.east.verizon.net 1 2 23559 20080117212342
+proxy3-out.whirlpool.com 1 2 18362 20080124134532
+host86-136-189-155.range86-136.btcentralplus.com 5 9 112500 20080130141131
+66-197-252-245.hostnoc.net 2 2 67557 20080104002743
+089-100-048161.ntlworld.ie 5 9 173139 20080118204256
+floodgate.intelliseek.com 6 6 136119 20080121115815
+host86-146-98-45.range86-146.btcentralplus.com 8 9 73070 20080117174536
+80-193-164-41.cable.ubr04.wiga.blueyonder.co.uk 1 1 188042 20080113155341
+64.41.145.180 2 2 64859 20080111223106
+colo-s4s.hasname.com 1 1 28138 20080105171356
+host86-140-81-14.range86-140.btcentralplus.com 10 48 4379291 20080130205209
+81-86-137-60.dsl.pipex.com 4 11 105449 20080122185017
+host81-137-148-222.in-addr.btopenworld.com 1 1 52029 20080117133308
+popinski.dreamhost.com 2 2 11949 20080111150142
+wsip-68-96-29-70.om.om.cox.net 1 1 190064 20080118201527
+213.18.121.76 3 6 94139 20080129143627
+82.99.30.9 1 1 12954 20080113010634
+wc1.york.ac.uk 3 6 99011 20080122142724
+static-74-41-93-26.sdsl01.roch.ny.frontiernet.net 4 4 127407 20080121121809
+cnf56-240.york.ac.uk 3 8 122816 20080127150001
+host86-145-22-22.range86-145.btcentralplus.com 3 3 30456 20080116174604
+static-208-80-193-35.as13448.com 1 1 234 20080111013515
+217-169-46-98.bis-internet.co.uk 4 4 87550 20080127193235
+82.99.30.51 1 1 15134 20080101165750
+67.192.52.36 1 1 234 20080121172300
+193.35.134.151 2 2 0 20080124081925
+customer6021.pool1.unallocated-110-192.orangehomedsl.co.uk 2 4 60559 20080123225753
+s01060014d13d25a4.vc.shawcable.net 1 2 37701 20080104214818
+5ac1af74.bb.sky.com 3 5 95897 20080108093041
+81-179-98-248.dsl.pipex.com 13 78 5759398 20080130223608
+5ac26a5f.bb.sky.com 3 3 29589 20080119235216
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20080101 225 484 4015615 61
+20080102 145 211 2537629 50
+20080103 106 158 1415199 55
+20080104 104 194 3661142 61
+20080105 58 62 319148 38
+20080106 101 155 1348277 49
+20080107 220 329 3269991 46
+20080108 97 107 1114229 54
+20080109 141 152 867144 59
+20080110 152 196 3473099 67
+20080111 132 136 593397 43
+20080112 118 124 746018 69
+20080113 122 124 986750 64
+20080114 188 200 1848241 70
+20080115 156 162 833648 85
+20080116 161 208 4994398 72
+20080117 155 160 705700 72
+20080118 148 155 1181683 80
+20080119 122 125 702064 69
+20080120 147 160 1070572 72
+20080121 330 489 5401712 90
+20080122 193 266 1770167 64
+20080123 176 210 1313671 61
+20080124 349 482 5363803 49
+20080125 322 463 5282230 64
+20080126 137 150 660968 57
+20080127 185 241 1832694 53
+20080128 125 139 892301 49
+20080129 144 155 1046678 53
+20080130 146 255 10809716 45
+20080131 174 216 1751459 49
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 201
+5mn-15mn 33
+2mn-5mn 45
+15mn-30mn 36
+30s-2mn 56
+0s-30s 1322
+30mn-1h 177
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 87
+/blog/ 2453 25892469 1263 1249
+/blog/feed/ 1031 2823887 182 205
+/ 400 30186 80 47
+/blog/2008/01/02/the-dress-of-web-20/ 256 3707801 195 195
+/blog/wp-admin/theme-editor.php 109 1183530 0 0
+/blog/2008/01/21/washing-machines-supermarkets/ 82 1310133 18 26
+/blog/wp-admin/index-extra.php 72 145333 0 0
+/blog/about/ 63 730871 1 26
+/blog/wp-admin/upload.php 58 202186 0 0
+/blog/wp-admin/post.php 33 698919 0 0
+/blog/wp-cron.php 32 0 4 6
+/blog/wp-admin/themes.php 31 178558 0 0
+/blog/wp-admin/ 26 167927 1 0
+/blog/wp-admin/link-manager.php 25 440412 0 0
+/blog/wp-admin/options-general.php 24 184627 0 0
+/blog/wp-admin/admin-ajax.php 23 1474 0 0
+/blog/2008/01/07/communication-that-evolves/ 22 356698 16 13
+/blog/wp-includes/js/tinymce/tiny_mce_gzip.php 20 767894 0 0
+/blog/2007/11/25/amazon-kindle/ 17 134516 6 5
+/blog/wp-admin/post-new.php 14 276714 0 0
+/blog/wp-trackback.php 14 1792 7 6
+/blog/wp-admin/link.php 14 211581 0 0
+/blog/wp-admin/edit.php 13 285959 0 0
+/portfolio/print/cat_inside_whole.pdf 13 2737840 12 11
+/blog/wp-admin/page.php 12 190391 0 0
+/portfolio/interface/wayfinding/ 1 1228 0 0
+/blog/wp-admin/export.php 2 70822 0 0
+/portfolio/print/ 2 5462 0 0
+/web.html 7 15132 0 1
+/blog/category/web/ 1 23202 1 1
+/blog/category/illustration/ 10 158184 9 9
+/blog/wp-admin/link-category.php 1 4045 0 0
+/blog/wp-admin/edit-link-categories.php 1 8315 0 0
+/blog/feed/atom/ 1 29967 0 1
+/blog/wp-admin/link-add.php 5 74652 0 0
+/blog/wp-admin/options-misc.php 3 13696 0 0
+/blog/category/convergence/ 10 169622 8 6
+/blog/2007/11/26/website-fine-art/ 5 66548 2 4
+/blog/wp-admin/users.php 2 17682 0 0
+/blog/2007/11/22/the-impersonality-of-graphic-design/ 6 98026 4 4
+/blog/wp-admin/options-writing.php 2 16624 0 0
+/wordpress.2/wp-admin/ 2 558 0 0
+/blog/wp-admin/options-reading.php 3 18825 0 0
+/blog/wp-admin/edit-comments.php 2 40157 0 1
+/blog/index.php 1 9157 0 1
+/blog/wp-admin/images/ 1 2736 0 0
+/blog/category/blogs/ 3 47537 3 3
+/blog/wp-login.php 11 24322 4 2
+/blog/2007/11/ 7 120686 2 4
+/interface.html 5 15155 0 1
+/blog/2007/12/24/about-this-blog-updated/trackback/ 1 246 1 1
+/misc.html 4 8912 0 1
+/blog/wp-admin/moderation.php 7 53158 0 0
+/blog/wp-admin/edit-pages.php 3 17257 0 0
+/typography.html 6 27270 0 1
+/blog/2008/01/02/the-dress-of-web-20/trackback/ 1 111 1 1
+/index2.html 11 23342 9 1
+/blog/category/communication/ 2 27938 2 2
+/wordpress/wp-config.php 1 13 0 0
+/blog/2007/12/20/graphic-design-writing/ 3 38972 2 2
+/blog/category/writing/ 2 28158 2 2
+/wordpress.2/ 2 12531 0 0
+/images/ 1 232 0 0
+/blog/2008/01/ 3 65608 0 0
+/blog/wp-admin/options-permalink.php 5 34851 0 0
+/blog/wp-includes/js/tinymce/tiny_mce_config.php 10 16280 0 0
+/blog/wp-admin/comment.php 2 13353 0 0
+/blog/wp-admin/options-discussion.php 1 7148 0 0
+/blog/wp-admin/plugins.php 1 5318 0 0
+/blog/category/typography/ 7 154806 7 6
+/blog/category/working-process/ 4 70557 4 4
+/blog/wp-includes/js/tinymce/themes/advanced/image.htm 2 9920 0 0
+/blog/wp-admin/options-privacy.php 4 15792 0 0
+/portfolio/print/henry_v_whole.pdf 6 260145 5 5
+/blog/category/art/ 6 121382 6 5
+/wordpress.2/wp-admin/install.php 2 1884 0 0
+/blog/feed/rss/ 1 4211 0 0
+/wordpress/wp-admin/ 1 275 0 0
+/blog/wp-admin/categories.php 1 15981 0 0
+/covers.html 4 10000 0 0
+/blog/2007/12/ 3 41738 0 0
+/portfolio/catalogues/ 1 2973 0 0
+/blog/wp-admin/import.php 1 7044 0 0
+/portfolio/ 2 2370 0 0
+/blog/2007/12/24/about-this-blog-updated/ 5 66531 4 5
+/blog/wp-includes/js/tinymce/themes/advanced/link.htm 3 12264 0 0
+/blog/category/graphic-design/ 9 244242 9 7
+END_SIDER

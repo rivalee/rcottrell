@@ -1,0 +1,65 @@
+Return-path: <james@tartarus.org>
+Envelope-to: rebecca@rcottrell.com
+Delivery-date: Tue, 03 Nov 2015 10:59:39 +0000
+Received: from atreus.tartarus.org ([80.252.125.10]:34749)
+	by aster.dataflame.com with esmtp (Exim 4.85)
+	(envelope-from <james@tartarus.org>)
+	id 1ZtZJQ-0002O6-Mo
+	for rebecca@rcottrell.com; Tue, 03 Nov 2015 10:59:39 +0000
+Received: from [154.58.82.86] (helo=[192.168.1.244])
+	by atreus.tartarus.org with esmtpsa (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <james@tartarus.org>)
+	id 1ZtZJS-0005UW-7E
+	for rebecca@rcottrell.com; Tue, 03 Nov 2015 10:59:39 +0000
+From: James Aylett <james@tartarus.org>
+Content-Type: text/plain; charset=us-ascii
+X-Mao-Original-Outgoing-Id: 468241171.491499-f4df281309f6171c29d8fbe38362f5ae
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (Mac OS X Mail 8.2 \(2104\))
+Subject: Hello?
+Message-Id: <FE0D5AFF-E525-4B65-8930-292C26EAE891@tartarus.org>
+Date: Tue, 3 Nov 2015 10:59:31 +0000
+To: rebecca@rcottrell.com
+X-Mailer: Apple Mail (2.2104)
+X-Spam-Status: No, hits=-6.0 required=5.0 tests=ALL_TRUSTED,BAYES_00,RCVD_ESMTP
+X-Spam-Status: No, score=-2.3
+X-Spam-Score: -22
+X-Spam-Bar: --
+X-Ham-Report: Spam detection software, running on the system "aster.dataflame.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Looking for some space. Is there some space? I have a mythical
+    god child who needs to lie down for the night. -- James Aylett I make: devfort.com,
+    spacelog.org Films: talktorex.co.uk Everything else: tartarus.org/james/
+   [...] 
+ 
+ Content analysis details:   (-2.3 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: tartarus.org]
+ -2.3 RCVD_IN_DNSWL_MED      RBL: Sender listed at http://www.dnswl.org/, medium
+                              trust
+                             [80.252.125.10 listed in list.dnswl.org]
+ -0.0 T_RP_MATCHES_RCVD      Envelope sender domain matches handover relay
+                             domain
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+X-Spam-Flag: NO
+
+Looking for some space. Is there some space? I have a mythical god child =
+who needs to lie down for the night.
+
+--=20
+ James Aylett
+ I make: devfort.com, spacelog.org
+ Films: talktorex.co.uk
+ Everything else: tartarus.org/james/
+

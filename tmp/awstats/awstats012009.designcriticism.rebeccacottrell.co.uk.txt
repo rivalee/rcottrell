@@ -1,0 +1,351 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 200901 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2539                
+POS_VISITOR 6925                
+POS_DAY 8978                
+POS_DOMAIN 3242                
+POS_LOGIN 3594                
+POS_ROBOT 3749                
+POS_WORMS 4148                
+POS_EMAILSENDER 4279                
+POS_EMAILRECEIVER 4422                
+POS_SESSION 9762                
+POS_SIDER 9961                
+POS_FILETYPES 4557                
+POS_OS 4679                
+POS_BROWSER 4791                
+POS_SCREENSIZE 5011                
+POS_UNKNOWNREFERER 5085                
+POS_UNKNOWNREFERERBROWSER 5318                
+POS_ORIGIN 5546                
+POS_SEREFERRALS 5685                
+POS_PAGEREFS 5842                
+POS_SEARCHWORDS 6203                
+POS_KEYWORDS 6375                
+POS_MISC 2203                
+POS_ERRORS 6457                
+POS_CLUSTER 3450                
+POS_SIDER_404 6574                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20090201001015 14 1828 27985876914
+FirstTime 20090101030251
+LastTime 20090131215840
+LastUpdate 20090201075431 14 0 13 0 0
+TotalVisits 341                 
+TotalUnique 33                  
+MonthHostsKnown 23                  
+MonthHostsUnknown 16                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 7 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 17 17 6236 13 13 189
+1 19 19 15590 6 6 70
+2 21 27 147399 13 13 128
+3 23 35 278812 9 9 141
+4 23 29 157695 11 11 116
+5 26 38 279726 25 25 54024
+6 19 19 12472 29 29 57010
+7 20 26 150628 7 7 77
+8 15 15 15590 7 7 68
+9 18 18 6236 12 12 126
+10 18 18 16574 11 11 109
+11 25 39 358635 5 5 25
+12 24 30 161031 8 8 40
+13 22 22 6236 12 12 60
+14 36 42 164446 14 14 70
+15 23 41 418170 5 5 58
+16 22 22 18797 10 10 6903
+17 21 21 14783 12 12 81
+18 20 26 156518 8 8 40
+19 28 34 150776 12 12 81
+20 27 42 352653 13 13 65
+21 27 39 293056 9 9 139
+22 21 41 463627 10 10 111
+23 21 21 33045 13 13 133
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+us 515 604 2363246
+gb 10 36 619793
+au 2 14 263905
+de 2 2 8221
+in 2 8 137873
+ip 1 1 7220
+pl 1 1 7507
+nl 1 1 6830
+eu 1 7 132068
+id 1 7 132068
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+googlebot 19 39895 20090129102749 13
+robot 11 286 20090131003614 11
+\wbot[\/\-] 9 47170 20090115062015 2
+slurp 7 182 20090130222317 7
+unknown 3 121 20090127214748 3
+bot[+:,\.\;\/\\-] 2 52 20090127065519 2
+msnbot 1 45 20090116230340 1
+netcraft 1 6830 20090106162250 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+css 24 291192 0 0
+html 536 646475 0 0
+jpg 52 2723676 0 0
+gif 69 17388 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 7
+macosx 98
+bsdfreebsd 1
+winlong 30
+winxp 54
+win2003 7
+winnt 1
+Unknown 490
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 12
+firefox3.0.3 8
+netscape4.76 1
+firefox2.0.0.11 7
+msie6.0 19
+firefox2.0.0.20 7
+msie7.0 36
+msie3.0 1
+firefox3.0.1 7
+firefox2.0.0.16 4
+Unknown 490
+safari 29
+firefox3.0.5 72
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+remoteworker_internet_measurement_agent_http://www.stillhq.com/research/ 20090122230335
+FeedBurner/1.0_(http://www.FeedBurner.com) 20090131215840
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+remoteworker_internet_measurement_agent_http://www.stillhq.com/research/ 20090122230335
+FeedBurner/1.0_(http://www.FeedBurner.com) 20090131215840
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 494 494
+From1 0 0
+From2 21 21
+From3 7 7
+From4 14 159
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 21 21
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://spellsbook.com/freescripts/designcriticism.com/ 3 3
+http://jollysailors.com/bestof/designcriticism.com/ 2 2
+http://searchpoint3.com/search.php 1 1
+http://focaldepth.com/imagefinder/designcriticism.com/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+design+criticism 21
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+design 21
+criticism 21
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 207 1035
+405 1 5
+301 8 20
+404 5 24223
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 2
+/xmlrpc.php 4 -
+/2008/word-clock/\"\" 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 39
+chi-fetch.feedburner.com 286 286 10083 20090118173831
+yx-out-f136.google.com 202 202 314923 20090131215840
+193.62.214.23 5 13 210977 20090127111852
+static.88-198-112-187.clients.your-server.de 4 4 21391 20090119174011
+host217-44-113-37.range217-44.btcentralplus.com 2 8 137817 20090115151113
+nat1.taunton.com 2 8 139316 20090121213159
+59.164.83.74.man-static.vsnl.net.in 2 8 137873 20090124124713
+h15.91.90.75.dynamic.ip.windstream.net 2 8 137635 20090112031504
+dhcp-130-64-77-191.medford.tufts.edu 2 8 137517 20090130141656
+host86-129-147-241.range86-129.btcentralplus.com 2 8 139337 20090112181740
+ua-85-230-108-124.cust.bredbandsbolaget.se 2 10 190137 20090105224639
+97.95.156.88 2 11 202536 20090128203540
+host86-160-12-201.range86-160.btcentralplus.com 2 8 138931 20090130152105
+static.13.30.47.78.clients.your-server.de 2 2 8649 20090121143310
+99.48.153.19 1 7 131788 20090104205927
+195.116.53.23 1 1 7507 20090122230335
+tmo-104-106.customers.d1-online.com 1 7 132068 20090109224203
+c-67-168-192-67.hsd1.wa.comcast.net 1 7 132068 20090125053759
+67.217.35.60 1 1 6830 20090124044957
+220.255.7.153 1 1 7276 20090113043121
+82.161.231.16 1 1 6830 20090121234349
+c-76-27-218-60.hsd1.or.comcast.net 1 7 131809 20090120020220
+208.94.243.130 1 1 7220 20090118103227
+host-41-196-164-5.static.link.com.eg 1 7 131914 20090115211929
+209.85.132.136 1 1 0 20090122001315
+220.255.7.232 0 1 63071 
+220.255.7.208 0 1 50 
+220.255.7.222 0 1 48601 
+220.255.7.211 0 1 652 
+adsl-75-33-244-94.dsl.chcgil.sbcglobal.net 1 7 131823 20090110034302
+cpe001310408911-cm0014e8b573a8.cpe.net.cable.rogers.com 1 7 132068 20090118223900
+exchange.epd-pgh.com 1 7 132068 20090114195030
+89-138-40-26.bb.netvision.net.il 1 7 132068 20090107070005
+caerus.ivegotafang.com 1 1 7507 20090114182810
+80-195-176-93.cable.ubr01.nmal.blueyonder.co.uk 1 7 132068 20090111153658
+202.169.241.87 1 7 132068 20090128052135
+220.255.7.202 0 1 12133 
+219-90-186-182.ip.adam.com.au 1 7 132068 20090109115358
+220.255.7.186 0 1 54 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20090101 11 11 0 9
+20090102 15 15 0 8
+20090103 14 14 0 8
+20090104 16 22 131788 10
+20090105 17 25 190137 9
+20090106 13 13 0 9
+20090107 17 23 132068 10
+20090108 19 19 5857 10
+20090109 16 28 269565 11
+20090110 20 26 136268 13
+20090111 16 22 132068 12
+20090112 22 34 276972 13
+20090113 17 23 131837 11
+20090114 23 29 152308 13
+20090115 27 39 273169 13
+20090116 21 21 0 13
+20090117 16 16 3123 12
+20090118 13 19 142406 10
+20090119 12 12 5429 11
+20090120 13 19 131809 11
+20090121 13 19 148938 12
+20090122 12 12 7507 11
+20090123 12 12 0 9
+20090124 17 23 144703 12
+20090125 16 22 132068 12
+20090126 20 20 9354 10
+20090127 24 32 270219 13
+20090128 25 40 403200 12
+20090129 19 19 59242 13
+20090130 24 36 338808 11
+20090131 16 16 49888 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 31
+15mn-30mn 32
+2mn-5mn 1
+30s-2mn 4
+0s-30s 205
+30mn-1h 68
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/feed/ 488 321883 306 306
+/ 40 275851 35 28
+/2008/08/ 4 23220 0 4
+/authors/ 3 19708 0 2
+/category/products/ 1 5813 0 1
+END_SIDER
